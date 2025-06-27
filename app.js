@@ -51,12 +51,19 @@ class GraduacionesApp {
         container.className = 'photo-container';
         
         const year = photoName.replace(/\.[^/.]+$/, ""); // Remover extensión
+        
+        // Mostrar "Foto" para 2000 y 2001, "Graduación" para el resto
+        let titlePrefix = "Graduación";
+        if (year === "2000" || year === "2001") {
+            titlePrefix = "Foto";
+        }
+        
         const caras = this.facesData[photoName];
         
         container.innerHTML = `
-            <div class="photo-title">Graduación ${year}</div>
+            <div class="photo-title">${titlePrefix} ${year}</div>
             <div class="photo-wrapper" onclick="app.openModal('${photoName}')">
-                <img src="public/${photoName}" alt="Graduación ${year}" class="photo" 
+                <img src="public/${photoName}" alt="${titlePrefix} ${year}" class="photo" 
                      onload="app.onImageLoad(this, '${photoName}')">
                 ${this.createFaceBoxes(caras)}
             </div>
@@ -255,15 +262,22 @@ class GraduacionesApp {
         this.currentModalPhoto = photoName;
         this.resetZoom(); // Resetear zoom al abrir nueva foto
         const year = photoName.replace(/\.[^/.]+$/, "");
+        
+        // Mostrar "Foto" para 2000 y 2001, "Graduación" para el resto
+        let titlePrefix = "Graduación";
+        if (year === "2000" || year === "2001") {
+            titlePrefix = "Foto";
+        }
+        
         const caras = this.facesData[photoName];
         
         // Configurar título
-        document.getElementById('modal-title').textContent = `Graduación ${year}`;
+        document.getElementById('modal-title').textContent = `${titlePrefix} ${year}`;
         
         // Configurar imagen y caras
         const modalContainer = document.getElementById('modal-image-container');
         modalContainer.innerHTML = `
-            <img src="public/${photoName}" alt="Graduación ${year}" class="modal-image" 
+            <img src="public/${photoName}" alt="${titlePrefix} ${year}" class="modal-image" 
                  onload="app.onModalImageLoad(this, '${photoName}')">
             ${this.createModalFaceBoxes(caras)}
         `;
