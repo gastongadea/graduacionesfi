@@ -22,6 +22,25 @@ Una plataforma web interactiva para visualizar las fotos de graduación de la Fa
 
 [Ver demo en vivo](https://tu-demo-url.com) *(pendiente de deploy)*
 
+## 🌐 Deploy
+
+### Vercel (Recomendado)
+
+Para desplegar en Vercel:
+
+1. **Sube tu proyecto a GitHub**
+2. **Ve a [vercel.com](https://vercel.com)**
+3. **Importa tu repositorio**
+4. **¡Deploy automático!**
+
+Ver [VERCEL_DEPLOY.md](VERCEL_DEPLOY.md) para instrucciones detalladas.
+
+### Otros servicios
+
+- **Netlify**: Similar a Vercel
+- **GitHub Pages**: Para hosting estático
+- **Heroku**: Para aplicaciones con backend
+
 ## 📋 Requisitos
 
 - Python 3.6 o superior
