@@ -29,6 +29,20 @@
             margin-bottom: 30px;
         }
 
+        .logo-container {
+            margin-bottom: 20px;
+        }
+
+        .logo {
+            max-width: 300px;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            background: white;
+            padding: 10px;
+            backdrop-filter: blur(10px);
+        }
+
         .header h1 {
             font-size: 2.5rem;
             margin-bottom: 10px;
@@ -320,6 +334,19 @@
             .nav-next {
                 right: 10px;
             }
+
+            .logo {
+                max-width: 250px;
+                padding: 8px;
+            }
+
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .header p {
+                font-size: 1rem;
+            }
         }
 
         .nav-button {
@@ -414,8 +441,11 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>🎓 Graduaciones FI</h1>
-            <p>Facultad de Ingeniería - Universidad Austral</p>
+            <div class="logo-container">
+                <img src="public/logoFIhorizontal.png" alt="Logo Facultad de Ingeniería - Universidad Austral" class="logo">
+            </div>
+            <h1>🎓 Photo Album - Graduaciones/h1>
+
         </div>
 
         <div id="loading" class="loading">
