@@ -206,6 +206,23 @@
             font-weight: bold;
             text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
             z-index: 2001;
+            transform-origin: center;
+        }
+
+        /* Asegurar que los controles mantengan su tamaño independientemente del zoom */
+        .modal .zoom-controls,
+        .modal .nav-button,
+        .modal .close-modal,
+        .modal .modal-title {
+            transform-origin: center !important;
+            /* Los botones no se escalan con el zoom de la imagen */
+        }
+
+        /* Asegurar que los botones mantengan su tamaño en hover */
+        .modal .zoom-btn:hover,
+        .modal .nav-button:hover,
+        .modal .close-modal:hover {
+            transform-origin: center !important;
         }
 
         .close-modal {
@@ -225,6 +242,7 @@
             justify-content: center;
             border-radius: 50%;
             background: rgba(255, 255, 255, 0.1);
+            transform-origin: center;
         }
 
         .close-modal:hover {
@@ -322,6 +340,7 @@
             border-radius: 50%;
             background: rgba(255, 255, 255, 0.1);
             backdrop-filter: blur(10px);
+            transform-origin: center;
         }
 
         .nav-button:hover {
@@ -355,6 +374,7 @@
             display: flex;
             gap: 10px;
             z-index: 2001;
+            transform-origin: center;
         }
 
         .zoom-btn {
@@ -372,6 +392,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
+            transform-origin: center;
         }
 
         .zoom-btn:hover {

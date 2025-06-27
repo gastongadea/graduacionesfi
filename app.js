@@ -473,6 +473,9 @@ class GraduacionesApp {
                 box.style.transform = transform;
             });
             
+            // Los botones de control NO se escalan, mantienen su tamaño original
+            // Solo se mueven con la imagen si es necesario
+            
             // Actualizar cursor
             if (this.zoomLevel > 1) {
                 modalImage.classList.add('zoomed');
