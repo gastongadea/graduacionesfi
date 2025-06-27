@@ -19,22 +19,22 @@
       "use": "@vercel/static"
     }
   ],
-  "routes": [
+  "rewrites": [
     {
-      "src": "/",
-      "dest": "/index.html"
+      "source": "/",
+      "destination": "/index.html"
     },
     {
-      "src": "/app.js",
-      "dest": "/app.js"
+      "source": "/app.js",
+      "destination": "/app.js"
     },
     {
-      "src": "/public/(.*)",
-      "dest": "/public/$1"
+      "source": "/public/(.*)",
+      "destination": "/public/$1"
     },
     {
-      "src": "/faces-numbered.json",
-      "dest": "/faces-numbered.json"
+      "source": "/faces-numbered.json",
+      "destination": "/faces-numbered.json"
     }
   ],
   "headers": [
