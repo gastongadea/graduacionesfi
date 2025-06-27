@@ -1,0 +1,373 @@
+1999	1	Mercedes Augspach
+1999	2	Mariano Güemes
+1999	3	Rafael Aragón
+1999	4	Ignacio García
+1999	5	Juan Llavallol
+1999	6	José Miguel Dondo Bühler
+1999	7	Fernando Vaquero
+1999	8	Sebastián Inchauspe
+1999	9	Santiago Rebora
+1999	17	Horacio Bustillo
+1999	18	Gabriel Ugolini
+2000	1	Jorge Pereyra Iraola
+2000	2	Soledad San Martín
+2000	8	Mariano Fragueiro
+2000	9	Martín Padilla
+2000	11	Mateo Almenta Reca
+2000	14	Matías Bonadeo Miguens
+2000	16	Carlos Latugaye
+2002	1	Juan Pablo Hulsbus
+2002	2	Gonzalo Sánchez Claria
+2002	3	Diego Gregoraz
+2002	4	Gastón Gadea
+2002	6	Jorge López Louge
+2002	7	Joaquín Freixas Perkins
+2002	8	Matías Bernasconi
+2002	9	Rafael Achaval Rodriguez
+2002	14	Juan Carlos Pinasco
+2002	15	Luis Bogliolo
+2002	16	Pablo Pereiro
+2002	17	Franklin Pickling Febres
+2002	18	Carolina Hakkers
+2002	20	Miguel Cadeiras
+2002	22	Roberto Lynch
+2003	3	Lucas Caranti Peña
+2003	4	Daniel Olivera
+2003	5	Javier Díaz Mathé
+2003	6	Tomas Serantes
+2003	7	Francisco Redelico
+2003	8	Miguel Piñero
+2003	10	Joaquín Chas
+2003	11	Gustavo Galea
+2003	12	Juan Manuel Pereira
+2003	14	Luis Fernando Isern Reali
+2003	15	María Cecilia Riscino
+2003	16	Ernesto Santamarina
+2003	17	Pablo Bianco Galíndez
+2003	18	Guido Spotorno
+2003	19	Sebastián Uranga
+2003	20	Ramiro Manreza
+2003	21	Mariano Fiori
+2003	22	Federico Baiocchi
+2003	23	Omar Wehbe
+2003	24	Pablo Sagarna
+2003	25	Ricardo Donino
+2003	26	Santiago Perkins
+2004	2	Francisco López Anadón
+2004	3	Lourdes Perea Muñoz
+2004	4	Patricio Kaczmarzyk
+2004	6	Luis Torralva
+2004	7	Gastón Accardi
+2004	8	María Fernanda Arrillaga
+2004	8	Gonzalo Cañete
+2004	9	Lucía Sanclemente
+2004	10	Gustavo Martín Donino
+2004	12	Patricio Brons
+2004	13	Joaquín García
+2004	14	Horacio López Manzitti
+2004	16	Matías Concina
+2004	17	Marcos Murray
+2004	25	Juan Pablo Sambartolomeo
+2004	29	Juan Manuel Saubidet
+2004	31	Matías Tormo
+2004	37	Miguel Martinez Ferretti
+2004	38	Santiago Rupar
+2005	3	Rodrigo Paoletti
+2005	4	Marcos Fiorucci
+2005	5	Juan Cruz Ravera
+2005	6	Juan José Hardoy
+2005	7	Francisco Blanco
+2005	9	Fernando Lanús
+2005	10	Lucila Palandella
+2005	14	Tomás Llorente
+2005	15	Belén Marcó
+2005	16	Jorge Acosta
+2005	19	Verónica Sciola
+2005	22	Adriana Manzur
+2005	23	Cecilia Matho
+2005	24	María Carolina Oberst
+2005	25	María Cecilia Rocca
+2005	26	Manuel Biedma
+2005	27	Mariano Oliver
+2006	6	Agustín Vassallo
+2006	7	Luz Racca
+2006	8	Stella Maris Rocca
+2006	11	Miguel Gonzalez Balcarce
+2006	12	Sebastián Zimmermann
+2006	13	Juan Chico Capistrano
+2006	14	Patricio Herrera
+2006	16	Francisco Reynal
+2006	17	Federico Paz
+2006	18	Joaquín Reynal
+2006	19	Juan Octavio Chirca Kevorkian
+2006	20	Augusto Rückert
+2006	21	Alejandro Estevez Beines
+2006	22	Alejandro Bell
+2006	23	Simón Brugo de las Carreras
+2006	24	Andrés Caucino
+2006	25	Carlos Pacheco
+2006	26	Lucía Díez
+2006	28	Mariano Ayerza
+2006	29	Nicolás Damonte
+2006	30	Carlos Moyano
+2006	32	Alejandro Quadri
+2006	33	Ricardo Gioja
+2006	34	Matías Ipiña
+2006	35	Carlos Balestra
+2006	39	Pablo Díaz Delfino
+2006	40	Maximiliano Garay Schang
+2006	46	Juan Francisco de San Martín
+2006	50	Dolores Bertolini
+2007	6	Pamela Guzzo
+2007	18	Milena Benedetti Miguens
+2007	20	Mariana Oliva
+2007	19	Letizia Dolores Bronzina
+2007	10	Romina Peric Andrade
+2007	8	Carolina Camacho Mendoza
+2007	9	Rosario de la Fuente
+2007	7	Luis Ricci
+2007	25	Juan Pablo Rosolen
+2007	5	Martín Salaberri
+2007	22	Ignacio Rodríguez
+2007	3	Patricio Carlos Llaona
+2007	17	Lucas Luppani
+2007	35	Daniel Verone
+2007	48	Pablo Anschütz
+2007	41	Pablo Alvarez
+2007	37	Ignacio Gandara
+2007	26	Julián Palmero
+2007	23	Tomás Petroni
+2007	12	Francisco Prieto Mazzucco
+2008	9	Juan Manuel Maruri
+2008	36	Pablo Aranda
+2008	12	Emilio Ferre
+2008	14	Juan Pablo Wyler
+2008	4	Juan Pablo Sabadini
+2008	5	Pablo Castro
+2008	15	Mariano De Achaval
+2008	7	Federico Schnitzler
+2008	38	Lucas González
+2008	3	Agustin López Gabeiras
+2008	37	Valeria Untersander
+2008	39	María Carolina Sabate
+2008	41	María Rosario Spini
+2008	1	Santiago Marenco
+2008	13	Tomás Plaza de Ayala
+2008	26	Francisco Saint Jean
+2008	42	María Asunción Etcheverry
+2008	27	María Florencia Bestani
+2008	24	Daniel Salvatori
+2008	18	Gabriela Calderón Espinoza
+2008	34	Fernando Caballero
+2008	22	Cecilia De Ieso
+2008	29	José María Moore
+2008	21	Victoria Perusini
+2008	20	Pedro Colunga
+2008	43	Ignacio Puiggari
+2008	23	Daniel Grane
+2008	47	Gonzalo Urdapilleta
+2008	56	Denise Fernández Menendez
+2008	25	Marcos Pasqualino
+2008	19	Santiago Voget
+2008	6	José María Sanfeliú
+2008	48	Gerardo Gully
+2008	30	Lucas Peri
+2008	31	Pablo Gilbert
+2008	11	Franco Silvetti
+2008	46	Javier Carbone
+2008	32	Rodolfo Martín Bujaldon
+2008	10	Rodrigo Tosti Ibañez
+2009	26	Magdalena Cerviño Correa
+2009	20	Federico Díez
+2009	3	Kevin Davies Lenoble
+2009	19	Santiago Grandjean
+2009	2	Matías Rodríguez Riccio
+2009	21	Carolina Schvimer
+2009	30	Gimena Moro
+2009	1	Pedro Rossi Stiattesi
+2009	4	Alejandro Ricaurte
+2009	34	Benjamín Thixton
+2009	35	Arturo Cordón
+2009	41	Tomás D'Andrea Isasmendi
+2009	6	José Colunga
+2009	27	Juan Pablo Marin Fernández
+2009	11	Belén Gil Cardeza
+2009	5	Matías Carrera
+2009	23	Lucila Cuccaro Goggi
+2009	7	Carlos Bas Bustamante
+2009	12	Florencia Bagnardi
+2009	15	Rodrigo Álvarez Bayon
+2009	32	Ignacio Teran Ortiz
+2009	8	Santiago D'André
+2009	14	Gisela Saborido
+2009	22	Leandro Maruri
+2009	9	Fernando Miguens
+2009	28	Miguel Martinez Soler
+2009	10	Martín Rodriguez
+2009	39	Eliana Bujan
+2009	37	María Dodero
+2009	45	Luciana Martínez Goya
+2009	29	Nicolás Miguens
+2009	16	Agustín Bonadeo Miguens
+2009	44	Daniel Aloisi
+2009	36	Miguel Weiss
+2009	38	Carlos Trubacz Albrecht
+2010	9	Jorge Lorenzon
+2010	12	Tomás Mac Carthy
+2010	10	Patricio Demitrio
+2010	27	Matías Larramendy
+2010	6	Santiago Puente
+2010	8	Tobías Gaglio
+2010	30	Jorge Chiocci
+2010	28	Santiago Traverso
+2010	7	Felipe Villacis Salazar
+2010	21	Santiago Zanel
+2010	23	Diego Duncan
+2010	11	Sebastián Scalisi
+2010	4	Héctor Alejandro Nuñez Roman
+2010	25	Hugo López Avecilla
+2010	14	Francisco Cagliari
+2010	15	Edgardo Enz
+2010	5	Sebastián Grane
+2010	16	Daiana Orden
+2010	19	Pilar Vallejos Meana
+2010	1	Paz Martínez Llobet
+2010	13	Aluén Burna
+2010	2	Marcos Uriburu
+2010	26	Federico Keen
+2011	6	Nicolás Pasut
+2011	13	Victoria De Paul
+2011	19	Ezequiel Bula
+2011	23	Eduardo Lafalla
+2011	5	Andrés Díaz Mathe
+2011	3	Martín Massa
+2011	14	Daiana Kurtz
+2011	1	Andrés Stewart
+2011	26	Yanet Maida
+2011	2	José Rozanec
+2011	4	Carina Tormo
+2011	22	Eliana Sánchez
+2011	12	Emiliano Montenegro Puigdengolas
+2011	17	Patricio Delfino
+2011	28	Angel Montecucco
+2011	18	Joaquín Paladino
+2011	27	Gonzalo De la Fuente Casal
+2011	9	Ricardo Grüneisen
+2011	16	Christian Garro
+2011	10	Joaquín Galli Conesa
+2012	21	Victoria Anselmi
+2012	29	Angeles López Fresco
+2012	10	Luján Pagani Cassara
+2012	26	Natalia Weisbek
+2012	14	Melina Tumio
+2012	22	Victoria Alonso
+2012	34	María Cecilia Ratcliffe
+2012	20	Lucía Frugoni
+2012	8	Constanza Capatti Caballero
+2012	23	Alix Moens de Hase
+2012	9	Victoria De Bary
+2012	4	Santiago Ferrer Deheza
+2012	12	Mariano García Clavería
+2012	13	Tomás Alabes
+2012	2	Nicolás Trejo
+2012	6	Maximiliano Saravia
+2012	11	Matías Traverso
+2012	2	Facundo Ferrer Casablanca
+2012	18	Daniel Giménez
+2012	16	Francisco Pegels
+2012	27	Ramiro Sevillano Moncunill
+2012	17	Carlos Pachano Alvarez
+2012	5	Tomás De Ridder
+2012	15	Luis De Ridder
+2013	20	José María Manochi
+2013	11	Agustín Di Paola Derqui
+2013	33	José Moyano Peña
+2013	32	Martín Ureta Saenz Peña
+2013	13	Francisco Alurralde Patrón
+2013	8	Matías Bellocq
+2013	9	Ezequiel Mulhall
+2013	10	Sebastián Sáenz
+2013	27	Francisco Pizarro Posse
+2013	30	Santiago Fraile
+2013	12	Ignacio Suarez Anzorena
+2013	29	Martín Verone
+2013	22	Tomás Bazterrica
+2013	34	Manuel Digregorio
+2013	14	Tomás Dominguez Molet
+2013	24	Florencio Di Paolo Sala
+2013	39	Aldana Morales
+2013	4	Daniel Orozco
+2013	18	Fernando Di Paolo Sala
+2013	2	Guido Alescio
+2013	25	Nicolás Mastroianni
+2013	35	Claudio Lucione Esen
+2013	5	Matías Bauer
+2013	28	Franco Magliola
+2013	1	Santiago Minvielle
+2013	3	Juan Ignacio Zunino
+2013	16	Marco Scavarda Basaldua
+2013	44	Amina Layco
+2013	26	Julia Racca
+2013	37	Violeta Vazquez Hume
+2013	15	Patricio Guerra
+2013	40	Verónica Sevillano Gutierrez
+2013	21	Nicolás Garnil
+2013	17	Federico Zablotzky
+2013	6	Esteban Zavala
+2013	36	Vanna Rossano
+2013	7	Nicolás Majdalani
+2013	23	Oriana Sola
+2013	43	Sofía Braun
+2014	40	Patricio Freixas
+2014	28	Belén Oller
+2014	42	Alan Morrison Fell
+2014	29	María Lopez Rouger
+2014	30	Noelia Lorences
+2014	21	Augusto Gesualdi
+2014	36	Milagros Arengo Piragine
+2014	16	Martín Sanchez
+2014	39	María Craig
+2014	26	Pedro Doval
+2014	17	Noel Podesta
+2014	15	Facundo Paz
+2014	37	Jerónimo Quintela
+2014	38	Federico Patron Costas
+2014	18	Lautaro Schiaffino
+2014	31	Julián Marquez
+2014	19	Felipe Ferreri
+2014	20	Juan Ignacio Molteni
+2014	12	Francisco Campolongo
+2014	9	Martín Colombato
+2014	10	Gonzalo Ramón Almada
+2014	13	Pedro Gonzalez Pagnanelli
+2014	7	Nicolás Roldan
+2014	8	Agustín Williams
+2014	24	Angel Nadales
+2014	5	Juan Ignacio Vincent
+2014	2	Patricio Ward
+2014	11	Juan Manuel Gestido
+2015	1	Damián Minniti
+2015	5	Tomás Saibene
+2015	4	Lucas Fornes
+2015	2	Ignacio Gaing
+2015	24	Martín Trocellier Sanchez
+2015	3	Matías Acosta Voegeli
+2015	14	Fiona Fitzpatrick
+2015	13	Mayra Vazquez Barbatto
+2015	19	Pilar Massanes Betelu
+2015	11	Laura López Bukovac
+2015	29	Victoria Tagle
+2015	28	Miguel Cane
+2015	35	Bautista Mingoia
+2015	27	Nicolás Fredriks
+2015	15	Diógenes Perez Otero
+2015	7	Agustina Moro
+2015	9	Victoria Fernández Aguirre
+2015	17	Magdalena Capatti Caballero
+2015	10	María Dominguez Herrera
+2015	22	Kevin Stessens
+2015	12	Tomás Casasnovas Poccard
+2015	6	Martín Bergada
+2015	23	Pablo Celentano
+2015	26	María José Río Pelliza
+2015	31	Tatiana Slodkowski
