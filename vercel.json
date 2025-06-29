@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "name": "graduacionesfi",
   "builds": [
     {
       "src": "*.html",
@@ -37,11 +36,6 @@
       "dest": "/$1"
     }
   ],
-  "functions": {
-    "api/save-stats.js": {
-      "runtime": "nodejs18.x"
-    }
-  },
   "headers": [
     {
       "source": "/(.*)",
@@ -49,14 +43,6 @@
         {
           "key": "Access-Control-Allow-Origin",
           "value": "*"
-        },
-        {
-          "key": "Access-Control-Allow-Methods",
-          "value": "GET, POST, OPTIONS"
-        },
-        {
-          "key": "Access-Control-Allow-Headers",
-          "value": "Content-Type"
         }
       ]
     }

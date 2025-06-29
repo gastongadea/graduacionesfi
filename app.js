@@ -38,30 +38,27 @@ class GraduacionesApp {
 
     async loadStats() {
         try {
-            const response = await fetch('stats.json');
-            if (response.ok) {
-                this.stats = await response.json();
+            // En Vercel (sitio estático), cargar desde localStorage
+            const savedStats = localStorage.getItem('graduacionesStats');
+            if (savedStats) {
+                this.stats = JSON.parse(savedStats);
             } else {
                 this.stats = {};
             }
         } catch (error) {
-            console.log('No se encontró archivo de estadísticas, creando uno nuevo');
+            console.log('No se encontraron estadísticas guardadas, iniciando con estadísticas vacías');
             this.stats = {};
         }
     }
 
     async saveStats() {
         try {
-            const response = await fetch('/save-stats', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify(this.stats)
-            });
-            if (!response.ok) {
-                console.log('Error al guardar estadísticas');
-            }
+            // En Vercel (sitio estático), solo loggeamos las estadísticas
+            console.log('📊 Estadísticas actualizadas:', JSON.stringify(this.stats, null, 2));
+            
+            // Opcional: guardar en localStorage para persistencia local
+            localStorage.setItem('graduacionesStats', JSON.stringify(this.stats));
+            
         } catch (error) {
             console.log('Error al guardar estadísticas:', error);
         }
