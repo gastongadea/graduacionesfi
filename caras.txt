@@ -9,13 +9,15 @@
 1999	9	Santiago Rebora
 1999	17	Horacio Bustillo
 1999	18	Gabriel Ugolini
-2000	1	Jorge Pereyra Iraola
-2000	2	Soledad San Martín
-2000	8	Mariano Fragueiro
-2000	9	Martín Padilla
-2000	11	Mateo Almenta Reca
-2000	14	Matías Bonadeo Miguens
-2000	16	Carlos Latugaye
+2000	5	Jorge Pereyra Iraola
+2000	13	Soledad San Martín
+2000	14	Lucas Vaquero
+2000	2	Javier Mones Cazon
+2000	7	Mariano Fragueiro
+2000	8	Martín Padilla
+2000	6	Mateo Almenta Reca
+2000	17	Matías Bonadeo Miguens
+2000	9	Carlos Latugaye
 2002	1	Juan Pablo Hulsbus
 2002	2	Gonzalo Sánchez Claria
 2002	3	Diego Gregoraz

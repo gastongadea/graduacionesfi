@@ -6,12 +6,14 @@ class GraduacionesApp {
         this.isDragging = false;
         this.dragStart = { x: 0, y: 0 };
         this.imagePosition = { x: 0, y: 0 };
+        this.stats = {};
         this.init();
     }
 
     async init() {
         try {
             await this.loadFacesData();
+            await this.loadStats();
             this.displayGallery();
             this.hideLoading();
             this.setupModalEvents();
@@ -31,6 +33,37 @@ class GraduacionesApp {
         } catch (error) {
             console.error('Error al cargar faces-numbered.json:', error);
             throw error;
+        }
+    }
+
+    async loadStats() {
+        try {
+            const response = await fetch('stats.json');
+            if (response.ok) {
+                this.stats = await response.json();
+            } else {
+                this.stats = {};
+            }
+        } catch (error) {
+            console.log('No se encontró archivo de estadísticas, creando uno nuevo');
+            this.stats = {};
+        }
+    }
+
+    async saveStats() {
+        try {
+            const response = await fetch('/save-stats', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(this.stats)
+            });
+            if (!response.ok) {
+                console.log('Error al guardar estadísticas');
+            }
+        } catch (error) {
+            console.log('Error al guardar estadísticas:', error);
         }
     }
 
@@ -259,6 +292,9 @@ class GraduacionesApp {
     }
 
     openModal(photoName) {
+        // Registrar el click
+        this.recordPhotoClick(photoName);
+        
         this.currentModalPhoto = photoName;
         this.resetZoom(); // Resetear zoom al abrir nueva foto
         const year = photoName.replace(/\.[^/.]+$/, "");
@@ -498,6 +534,23 @@ class GraduacionesApp {
         if (zoomOutBtn) {
             zoomOutBtn.disabled = this.zoomLevel <= 0.5;
         }
+    }
+
+    recordPhotoClick(photoName) {
+        if (!this.stats[photoName]) {
+            this.stats[photoName] = {
+                clicks: 0,
+                lastClick: null
+            };
+        }
+        
+        this.stats[photoName].clicks++;
+        this.stats[photoName].lastClick = new Date().toISOString();
+        
+        // Guardar estadísticas
+        this.saveStats();
+        
+        console.log(`Click registrado en ${photoName}. Total: ${this.stats[photoName].clicks}`);
     }
 }
 
