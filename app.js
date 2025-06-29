@@ -318,12 +318,11 @@ class GraduacionesApp {
             if (!cara.nombre || cara.nombre.trim() === '') {
                 return '';
             }
-            
             // Las coordenadas serán escaladas en scaleModalFaces
             return `
                 <div class="modal-face-box" 
-                     style="left: ${cara.x}px; top: ${cara.y}px; width: ${cara.w}px; height: ${cara.h}px;">
-                    <div class="modal-face-tooltip">${cara.nombre}</div>
+                     style="left: ${cara.x}px; top: ${cara.y}px; width: ${cara.w}px; height: ${cara.h}px; display: flex; align-items: flex-start; justify-content: center;">
+                    <div class="modal-face-tooltip" style="left: 50%; top: -60px; transform: translateX(-50%); white-space: nowrap;">${cara.nombre}</div>
                 </div>
             `;
         }).join('');
@@ -347,26 +346,20 @@ class GraduacionesApp {
 
     scaleModalFaces(img, photoName, faceBoxes) {
         const caras = this.facesData[photoName];
-        
         // Obtener las dimensiones reales de la imagen en el modal
         const imgRect = img.getBoundingClientRect();
         const containerRect = img.parentElement.getBoundingClientRect();
-        
         // Calcular las coordenadas relativas al contenedor del modal
         const imgLeft = imgRect.left - containerRect.left;
         const imgTop = imgRect.top - containerRect.top;
-        
         const originalWidth = img.naturalWidth;
         const originalHeight = img.naturalHeight;
         const displayWidth = imgRect.width;
         const displayHeight = imgRect.height;
-        
         const scaleX = displayWidth / originalWidth;
         const scaleY = displayHeight / originalHeight;
-        
         // Solo procesar caras que tienen nombre
         const carasConNombre = caras.filter(cara => cara.nombre && cara.nombre.trim() !== '');
-        
         faceBoxes.forEach((box, index) => {
             const cara = carasConNombre[index];
             if (cara) {
@@ -375,16 +368,25 @@ class GraduacionesApp {
                 const scaledY = (cara.y * scaleY) + imgTop;
                 const scaledW = cara.w * scaleX;
                 const scaledH = cara.h * scaleY;
-                
                 box.style.left = `${scaledX}px`;
                 box.style.top = `${scaledY}px`;
                 box.style.width = `${scaledW}px`;
                 box.style.height = `${scaledH}px`;
-                
                 // Aplicar transformación inicial si hay zoom activo
                 if (this.zoomLevel !== 1 || this.imagePosition.x !== 0 || this.imagePosition.y !== 0) {
                     const transform = `translate(${this.imagePosition.x}px, ${this.imagePosition.y}px) scale(${this.zoomLevel})`;
                     box.style.transform = transform;
+                    // También aplicar el mismo transform al tooltip
+                    const tooltip = box.querySelector('.modal-face-tooltip');
+                    if (tooltip) {
+                        tooltip.style.transform = `translateX(-50%) scale(${1/this.zoomLevel})`;
+                    }
+                } else {
+                    // Resetear el transform del tooltip si no hay zoom
+                    const tooltip = box.querySelector('.modal-face-tooltip');
+                    if (tooltip) {
+                        tooltip.style.transform = 'translateX(-50%)';
+                    }
                 }
             }
         });
@@ -467,14 +469,15 @@ class GraduacionesApp {
             const transform = `translate(${this.imagePosition.x}px, ${this.imagePosition.y}px) scale(${this.zoomLevel})`;
             modalImage.style.transform = transform;
             
-            // Aplicar la misma transformación completa a las cajas de caras
-            // para que se muevan y escalen junto con la imagen
-            faceBoxes.forEach(box => {
-                box.style.transform = transform;
+            // Ocultar cajas de caras cuando hay zoom
+            faceBoxes.forEach((box, index) => {
+                if (this.zoomLevel !== 1) {
+                    box.style.display = 'none';
+                } else {
+                    box.style.display = '';
+                    box.style.transform = 'none';
+                }
             });
-            
-            // Los botones de control NO se escalan, mantienen su tamaño original
-            // Solo se mueven con la imagen si es necesario
             
             // Actualizar cursor
             if (this.zoomLevel > 1) {
