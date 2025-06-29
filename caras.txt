@@ -59,7 +59,7 @@
 2004	6	Luis Torralva
 2004	7	Gastón Accardi
 2004	8	María Fernanda Arrillaga
-2004	8	Gonzalo Cañete
+2004	5	Gonzalo Cañete
 2004	9	Lucía Sanclemente
 2004	10	Gustavo Martín Donino
 2004	12	Patricio Brons
@@ -70,8 +70,10 @@
 2004	25	Juan Pablo Sambartolomeo
 2004	29	Juan Manuel Saubidet
 2004	31	Matías Tormo
+2004	33	Conrado Zuberbühler
 2004	37	Miguel Martinez Ferretti
 2004	38	Santiago Rupar
+2004	26	Dolores Salaberri
 2005	3	Rodrigo Paoletti
 2005	4	Marcos Fiorucci
 2005	5	Juan Cruz Ravera
@@ -371,3 +373,396 @@
 2015	23	Pablo Celentano
 2015	26	María José Río Pelliza
 2015	31	Tatiana Slodkowski
+2016	6	Juan Domingo Llorente
+2016	7	Martín Gutierrez
+2016	9	Marcos Terranova
+2016	23	Ignacio Dominguez
+2016	5	Natalia Bitenc
+2016	10	Bernardo Mingoia
+2016	13	Fernando Arriola
+2016	12	Francisco Curutchet
+2016	24	Nicolás Vidal
+2016	22	Javier Isoldi
+2016	16	Carlos Pena
+2016	14	Sebastián Rudolph
+2016	15	Tobías Orcoyen
+2016	17	Tomás Nicholson
+2016	18	Michel Hersch
+2016	21	Rogrigo González Willson
+2016	20	Joaquín Bucca
+2017	1	Axel Pozzi
+2017	14	Marcos Jaeschke
+2017	15	Alejandro Torossian
+2017	13	Juan Pablo Tisselli
+2017	2	Felipe Corro
+2017	3	Facundo Beltrame Molina
+2017	11	Tomás Mateus
+2017	7	Felipe Rabuffetti
+2017	4	Luisa Vila Moret
+2017	6	Agustina Masjoan
+2017	12	Alejandro Andereggen
+2017	5	Milagros Pontarolo
+2017	8	Nicolás Berisso
+2017	9	Eloy Beltrame Molina
+2018	38	Santiago Fuentes
+2018	42	Juan Facundo Mainero
+2018	43	Agustín Quintas
+2018	5	Guadalupe Oliver
+2018	6	Camila Dithurbide
+2018	4	Belén Acosta Voegeli
+2018	36	Matías Jaime Rumich
+2018	27	Joaquín Nacht
+2018	37	Luciano Sartor
+2018	17	Alvaro Gaita
+2018	64	Juan Ignacio Longo
+2018	63	Ramiro Riadigos
+2018	21	Agustín Ball
+2018	65	Andrew Piscione
+2018	60	Guido Astorelli
+2018	22	Federico Colombato
+2018	59	Tomás García Piñeiro
+2018	47	Celia Garrido García Pumarino
+2018	23	Julieta Vanella
+2018	24	Agustín Sere
+2018	58	Franco Testori
+2018	61	Tomás Vilaboa
+2018	32	Nicolás Burroni
+2018	16	Tomás Fernández Battolla
+2018	44	Nicolás Badell
+2018	25	Hugo Stuven
+2018	26	Julián Barouille
+2018	20	Ezequiel Hardoy
+2018	31	Santiago Paseyro
+2018	18	Juan Francisco Abrecht
+2018	45	Valentín Rodrigo
+2018	41	Iván Guerberoff
+2018	19	Damiana Young
+2018	52	Agustín Erra
+2018	55	Juan Ignacio Morales
+2018	13	Matías Karlsson
+2018	3	Ignacio Bivort
+2018	2	José Ignacio Illi
+2018	7	Tomás Gonzalo
+2018	8	Carlos Massanes Betelu
+2018	9	Felipe Acevedo
+2018	56	Mateo Ponce de León
+2018	10	Victoria De Vincenzi
+2018	11	Francisco Bory
+2018	14	Lucas Ramos Oromí
+2018	53	Agustín Espósito
+2018	12	Maximiliano Arduh
+2018	51	Nicolás Rudolph
+2018	54	Tomás Najun Zamora
+2018	48	Federico Ruiz
+2018	50	Federico Tanzi
+2018	49	Juan Diego Schneider
+2018	6	Kristell Arroyo Hermenegildo
+2019	33	Luca Molinari Cattarossi
+2019	24	Franco Liggieri
+2019	30	Ariel Cerda
+2019	43	Marcos Adhemar
+2019	19	Alfonso Rovagnati
+2019	40	Ignacio Vazquez Agostinho
+2019	35	Sebastián Iglesias
+2019	17	Leandro Bauret
+2019	13	Lucía Dithurbide
+2019	39	Camila Castagnaro
+2019	37	Ezequiel Beneito
+2019	41	Sofía Scheidegger
+2019	42	Carlos Mouriño
+2019	22	Milagros Fernández Henshaw
+2019	31	Juan Pablo Brea
+2019	36	Tomás Garcia Mansilla
+2019	53	Marcos Garcia Verdier
+2019	44	Marcos Della Pia Morano
+2019	56	Juan Pablo Tito
+2019	6	Patricio Lynch
+2019	45	Ignacio Goyanes
+2019	14	Mateo Walter
+2019	11	Pedro Elewaut
+2019	4	Juan Manuel Repezza
+2019	38	Federico Favale
+2019	7	Eugenio Mingoia
+2019	15	Eduardo De Achaval
+2019	27	Rocío Pettigiani
+2019	50	Segundo Speroni
+2019	23	Matías Gallo
+2019	20	Javier De Oromi Escalada
+2019	25	Guadalupe Homps
+2019	28	Esteban Bianchi
+2019	57	Sofía Marti Garro
+2019	26	Jerónimo Carlos
+2019	46	Catalina Arredondo Maiztegui
+2019	8	Santiago Lanusse Freixas
+2019	21	Lucas Baronzini
+2019	3	Martín Lanfranco
+2019	9	Santiago Alduncin
+2019	29	Tomás Pereyra Iraola
+2019	49	Constanza Gambetti
+2019	58	Ailin Capdepont
+2019	2	Ignacio Balparda
+2020	18	Agustín Sánchez Nerguizian
+2020	31	Cecilia Browne
+2020	10	Azul Fernández Iriarte
+2020	13	Sol Galarraga
+2020	11	Francisco Ferrari
+2020	24	Lucas Donnelly
+2020	21	Francisco Cotti
+2020	6	Oriana Comuzzi
+2020	12	Jazmín Ortega
+2020	23	Julián Di Gregorio
+2020	33	Martín Radovitzky
+2020	25	Juan Cruz Rolon Varela
+2020	7	Andrés Ghini
+2020	8	Martín Yunis
+2020	9	Joaquín Minvielle
+2020	14	Facundo Marcone Ancely
+2020	50	Agustín Masuelli
+2020	4	Manuel Soria
+2020	5	Lucas Petralli
+2020	20	Máximo Dupont
+2020	19	Santiago Allende
+2020	26	Santiago Ganzabal
+2020	42	Gonzalo Ambroa
+2020	28	Agustín Gomez Ferreyra
+2020	38	Marcos Berges
+2020	39	Franco Manochi
+2020	36	Federico Neme Agnesi
+2020	43	Ignacio Viglierchio
+2020	40	Lorenzo Burgwardt Rodriguez
+2020	15	Juan Gandolfo Gahan
+2020	37	Tomás Forman
+2020	44	Tomás Fernández Martínez
+2020	27	Felix de Achaval
+2020	41	Nicolás Padros
+2020	17	Bruno Ledesma
+2020	47	Ignacio Berdiñas
+2020	48	Brian Re
+2020	45	Francisco Ceriani
+2020	30	Michele Re
+2020	46	Matías Cicilia
+2020	16	Patricio Rickert
+2020	3	Juan Ignacio Simone Cao
+2020	29	Matías Monferrer
+2020	32	Matías Salemme
+2020	22	Marcos Valls
+2021	36	Matías Venditti
+2021	37	Brian Froschauer
+2021	30	Ignacio Pujato
+2021	20	Tomás Lynch
+2021	18	Ignacio De la Vega
+2021	19	Santiago Converso
+2021	21	Nicolás Curat Vallenilla
+2021	38	Juan Ballester Molina
+2021	3	José Uriburu
+2021	22	Lucas Borghi
+2021	14	Joaquín Gómez Codino
+2021	12	Mateo Weihmüller
+2021	25	Gonzalo de Achaval
+2021	33	Octavio Henschien
+2021	23	Manuel Dieguez
+2021	49	Sebastián Díaz de Valdés Grebe
+2021	34	Pablo Mercuri
+2021	51	Emilio Poitevin
+2021	55	Luca Chierasco
+2021	29	María de los Ángeles Chiang
+2021	7	Lucila Diamore Basilio
+2021	66	Florencia Vimberg
+2021	45	Agustín Bettati
+2021	9	Agostina Raviele
+2021	8	Micaela Aragona
+2021	6	Belén Rodriguez Ruiz
+2021	11	Martina Christin
+2021	5	Iván Ricur
+2021	6	Juan Cruz Teruggi Gonzalez
+2021	15	Santiago Volpe
+2021	16	Derek Alepidote
+2021	32	Marcos López Lecube
+2021	61	Bruno De Luca
+2021	40	Nicolás Moreno
+2021	50	Tomás Iturralde
+2021	44	Gianluca Scolaro
+2021	57	Jaime Chevallier Boutell
+2021	62	Tomás Campi
+2021	46	Andrés Palmai
+2021	42	Matías Busmail
+2021	48	Fermín Castro Madero
+2021	59	Joaquín Balparda
+2021	60	Santiago Lentino
+2021	58	Marcos Khabie
+2021	53	Faustino Osterc
+2021	54	Nicolás Alderete Duggan
+2021	10	Victoria Marti Garro
+2021	52	Joaquín Ramognino
+2021	47	Tomás Bottazzini
+2021	64	Agustín Lariguet
+2021	27	Victoria Castagnaro
+2021	67	Francisco Rivera Mirande
+2021	65	Matías Herreros
+2021	56	Dante Massera
+2022	51	Nicolás Maldonado Blanco Silva
+2022	41	Valentina Atalah
+2022	43	Carlos Gonzalez Guerrico
+2022	52	Nicolás Blanco
+2022	54	Ariel Mirra Gonzalez
+2022	45	Tobías Litwin
+2022	46	Diego Cancelliere
+2022	42	Agustina Medone
+2022	53	Francisco Colatruglio
+2022	50	Juan Cruz Pisani
+2022	47	Fabrizio Di Santo
+2022	38	Martín Gaddi
+2022	22	Franz Soto Leal
+2022	23	Joaquín Sydransky
+2022	12	María Florencia Vera
+2022	34	María Sol Benvenuto
+2022	14	Ignacio Penissi Minervini
+2022	16	Pablo Pereyra Iraola
+2022	17	Gonzalo Vallejos Davide
+2022	18	Efraín Zanetti Turco
+2022	39	Martín Acosta Soto
+2022	13	Franco Palumbo
+2022	15	Iñaki Flores
+2022	35	Pablo Berger
+2022	19	Josefina Juarez
+2022	37	Luz Serra
+2022	27	Agustín Fernandez Mc Loughlin
+2022	20	Felicitas Lanusse
+2022	36	Constanza Lannutti
+2022	25	Rodrigo Pazos
+2022	26	Santiago Carullo
+2022	21	Martín Iglesias
+2022	7	Ramiro Hormaechea
+2022	28	Mariano Longo
+2022	8	Federico Losio
+2022	32	Matías Ponce
+2022	4	Javier Lorenzo García
+2022	9	David Cerbino
+2022	33	Franco Velardez
+2022	29	Agustín Chaufan
+2022	5	Franco Morelli
+2022	1	Andrés Bettati
+2022	24	Pilar Collini
+2022	2	Juan Ignacio Belagardi
+2022	3	Lina Carosso
+2022	10	Nicolás Schejtman
+2022	11	Mariano Oberst
+2022	30	Máximo La Pietra
+2022	31	Franco Mica
+2023	16	Victoria Pelazza
+2023	30	Agustín Posleman
+2023	56	Agustín Simone Cao
+2023	63	Abril Gianzi
+2023	9	María Paz Cagliari Loyola
+2023	43	Agustín López Lacuara
+2023	34	Nicole Champagne
+2023	58	Lucas García
+2023	65	Candelaria Carpinetti
+2023	57	Delfina Campins
+2023	59	Luciana Arias Duval
+2023	55	María Eugenia Baiona
+2023	31	Camila Espada
+2023	3	Rocío Ferreiro Rico
+2023	46	Katia Cammisa
+2023	40	Juana Leymarie
+2023	37	Malena Braun
+2023	62	Nicolás Leunda
+2023	33	Fermín Böttcher Arancedo
+2023	44	Tomás López
+2023	32	Facundo Bocalandro
+2023	28	Valentín Fauda Trettel
+2023	38	Carolina Radovitzky
+2023	64	Agustina Lavolpe
+2023	11	Marcos Ziffer
+2023	41	Manuel García Creus
+2023	12	Clemente Sartan
+2023	15	Lautaro Cerini
+2023	18	Santiago Baratta
+2023	17	Pedro Alduncin
+2023	10	Tomás Aguirre Wolman
+2023	29	Federico Markl
+2023	14	Juan Ignacio Fernández
+2023	19	Francisco Sanguinetti
+2023	20	Félix Sojo
+2023	26	Maximiliano Adaro
+2023	27	Alejo Ramírez Gismondi
+2023	13	Facundo Lebón Mastellone
+2023	60	Matías Miodosky
+2023	36	Francisco Poppi
+2023	22	Mariano Narbais
+2023	51	Lautaro Carrozza
+2023	25	Manuel Moyano
+2023	23	Agustín Balerdi
+2023	47	Mauricio Forani
+2023	7	Mateo Vázquez Soria
+2023	54	Khalil Stessens
+2023	48	Santiago Steverlynck
+2023	24	Diego Baldassare
+2023	52	Daniel Grosso
+2023	2	Patricio Rustan
+2023	49	Santiago Vassolo
+2023	61	Pedro Aráoz
+2023	5	Tomás Recio
+2023	4	Tomás Tamaki
+2023	1	Braian Biale
+2023	50	Francisco Villani
+2023	53	Ivan Susnisky
+2024	44	Juana Ferrario Rodríguez
+2024	41	Angeles Paz Ibarguren
+2024	30	Facundo Martínez Gálvez
+2024	54	María Laura Soto Leal
+2024	57	Eugenia García Creus
+2024	55	María Agostina Zanutto
+2024	50	Julia Rodríguez Van Rhijn
+2024	43	Francesca Pierazzoli
+2024	64	Sol Zwobada
+2024	60	Sofía Fox
+2024	59	Clara Lanus
+2024	61	Valentina Rivas
+2024	31	Martina Consoli
+2024	62	Victoria Dantur
+2024	32	Agustina Cruz
+2024	40	Jaime Uranga
+2024	47	Miklos Döry Fernández Candia
+2024	51	Mateo Daireaux
+2024	58	Bautista Rivarola Labarthé
+2024	56	Germán Buchmüller
+2024	33	Agustina Abalo
+2024	63	Manuela Masjoan
+2024	37	Ignacio González
+2024	46	Nicole Fox
+2024	45	Facundo Rivas
+2024	48	Tomás Berretta
+2024	34	Nicolás Werner
+2024	53	Bahía Elverdin
+2024	35	Tomás Bruno
+2024	52	Matías Gayo
+2024	49	Agustín Von Staszewski
+2024	36	Mariano Grassia
+2024	15	Benjamín Capatti Caballero
+2024	8	Santiago García Mata
+2024	16	Iván Barbuio
+2024	18	Catalina Mendizabal
+2024	22	Joaquín Vivanco Andaur
+2024	6	Manuel Barreiro
+2024	9	Bautista Bucci
+2024	23	Juan Segundo Del Boca
+2024	14	Tomás Schweizer
+2024	3	Rodrigo Venegas Estay
+2024	24	Felipe Di Francesca
+2024	28	Marcos De Aloysio
+2024	16	Claudio Pannunzio
+2024	27	Juan Cruz Alí
+2024	13	Felipe Ledesma Padilla
+2024	38	Jerónimo Valdés
+2024	29	Lucca Vischi
+2024	29	Ignacio Pyznar
+2024	21	Pedro Fernández López
+2024	11	Santiago Pacifico
+2024	4	Bruno Queralt
+2024	39	Florencia Froschauer
+2024	25	Matías Ferron
+2024	12	Manuel Allende
+2024	7	Igor Jovanovich
+2024	5	Martín Saux
+2024	10	Santiago Ambrosetti

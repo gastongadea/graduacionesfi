@@ -1104,7 +1104,7 @@
       "y": 1096,
       "w": 189,
       "h": 189,
-      "nombre": ""
+      "nombre": "Gonzalo Cañete"
     },
     {
       "id": 6,
@@ -1128,7 +1128,7 @@
       "y": 2020,
       "w": 224,
       "h": 224,
-      "nombre": "Gonzalo Cañete"
+      "nombre": "María Fernanda Arrillaga"
     },
     {
       "id": 9,
@@ -1268,11 +1268,11 @@
     },
     {
       "id": 26,
-      "x": 3021,
-      "y": 3005,
-      "w": 52,
-      "h": 52,
-      "nombre": ""
+      "x": 2800,
+      "y": 2080,
+      "w": 240,
+      "h": 240,
+      "nombre": "Dolores Salaberri"
     },
     {
       "id": 27,
@@ -1324,11 +1324,11 @@
     },
     {
       "id": 33,
-      "x": 3385,
-      "y": 457,
-      "w": 70,
-      "h": 70,
-      "nombre": ""
+      "x": 3646,
+      "y": 680,
+      "w": 240,
+      "h": 240,
+      "nombre": "Conrado Zuberbühler"
     },
     {
       "id": 34,
@@ -1356,10 +1356,10 @@
     },
     {
       "id": 37,
-      "x": 3339,
-      "y": 2066,
-      "w": 83,
-      "h": 83,
+      "x": 3200,
+      "y": 1900,
+      "w": 240,
+      "h": 240,
       "nombre": "Miguel Martinez Ferretti"
     },
     {
@@ -5392,7 +5392,7 @@
       "y": 1250,
       "w": 162,
       "h": 162,
-      "nombre": ""
+      "nombre": "Natalia Bitenc"
     },
     {
       "id": 6,
@@ -5400,7 +5400,7 @@
       "y": 1314,
       "w": 197,
       "h": 197,
-      "nombre": ""
+      "nombre": "Juan Domingo Llorente"
     },
     {
       "id": 7,
@@ -5408,7 +5408,7 @@
       "y": 1341,
       "w": 182,
       "h": 182,
-      "nombre": ""
+      "nombre": "Martín Gutierrez"
     },
     {
       "id": 8,
@@ -5424,7 +5424,7 @@
       "y": 1147,
       "w": 190,
       "h": 190,
-      "nombre": ""
+      "nombre": "Marcos Terranova"
     },
     {
       "id": 10,
@@ -5432,7 +5432,7 @@
       "y": 1157,
       "w": 194,
       "h": 194,
-      "nombre": ""
+      "nombre": "Bernardo Mingoia"
     },
     {
       "id": 11,
@@ -5448,7 +5448,7 @@
       "y": 1068,
       "w": 200,
       "h": 200,
-      "nombre": ""
+      "nombre": "Francisco Curutchet"
     },
     {
       "id": 13,
@@ -5456,7 +5456,7 @@
       "y": 1107,
       "w": 183,
       "h": 183,
-      "nombre": ""
+      "nombre": "Fernando Arriola"
     },
     {
       "id": 14,
@@ -5464,7 +5464,7 @@
       "y": 562,
       "w": 178,
       "h": 178,
-      "nombre": ""
+      "nombre": "Sebastián Rudolph"
     },
     {
       "id": 15,
@@ -5472,7 +5472,7 @@
       "y": 629,
       "w": 162,
       "h": 162,
-      "nombre": ""
+      "nombre": "Tobías Orcoyen"
     },
     {
       "id": 16,
@@ -5480,7 +5480,7 @@
       "y": 635,
       "w": 172,
       "h": 172,
-      "nombre": ""
+      "nombre": "Carlos Pena"
     },
     {
       "id": 17,
@@ -5488,7 +5488,7 @@
       "y": 683,
       "w": 164,
       "h": 164,
-      "nombre": ""
+      "nombre": "Tomás Nicholson"
     },
     {
       "id": 18,
@@ -5496,7 +5496,7 @@
       "y": 699,
       "w": 159,
       "h": 159,
-      "nombre": ""
+      "nombre": "Michel Hersch"
     },
     {
       "id": 19,
@@ -5512,7 +5512,7 @@
       "y": 638,
       "w": 181,
       "h": 181,
-      "nombre": ""
+      "nombre": "Joaquín Bucca"
     },
     {
       "id": 21,
@@ -5520,7 +5520,7 @@
       "y": 682,
       "w": 182,
       "h": 182,
-      "nombre": ""
+      "nombre": "Rogrigo González Willson"
     },
     {
       "id": 22,
@@ -5528,7 +5528,7 @@
       "y": 594,
       "w": 194,
       "h": 194,
-      "nombre": ""
+      "nombre": "Javier Isoldi"
     },
     {
       "id": 23,
@@ -5536,7 +5536,7 @@
       "y": 1324,
       "w": 162,
       "h": 162,
-      "nombre": ""
+      "nombre": "Ignacio Dominguez"
     },
     {
       "id": 24,
@@ -5544,7 +5544,7 @@
       "y": 1193,
       "w": 190,
       "h": 190,
-      "nombre": ""
+      "nombre": "Nicolás Vidal"
     }
   ],
   "2017.jpg": [
@@ -5554,7 +5554,7 @@
       "y": 660,
       "w": 165,
       "h": 165,
-      "nombre": ""
+      "nombre": "Axel Pozzi"
     },
     {
       "id": 2,
@@ -5562,7 +5562,7 @@
       "y": 622,
       "w": 165,
       "h": 165,
-      "nombre": ""
+      "nombre": "Felipe Corro"
     },
     {
       "id": 3,
@@ -5570,7 +5570,7 @@
       "y": 685,
       "w": 168,
       "h": 168,
-      "nombre": ""
+      "nombre": "Facundo Beltrame Molina"
     },
     {
       "id": 4,
@@ -5578,7 +5578,7 @@
       "y": 335,
       "w": 121,
       "h": 121,
-      "nombre": ""
+      "nombre": "Luisa Vila Moret"
     },
     {
       "id": 5,
@@ -5586,7 +5586,7 @@
       "y": 343,
       "w": 120,
       "h": 120,
-      "nombre": ""
+      "nombre": "Milagros Pontarolo"
     },
     {
       "id": 6,
@@ -5594,7 +5594,7 @@
       "y": 361,
       "w": 111,
       "h": 111,
-      "nombre": ""
+      "nombre": "Agustina Masjoan"
     },
     {
       "id": 7,
@@ -5602,7 +5602,7 @@
       "y": 310,
       "w": 149,
       "h": 149,
-      "nombre": ""
+      "nombre": "Felipe Rabuffetti"
     },
     {
       "id": 8,
@@ -5610,7 +5610,7 @@
       "y": 288,
       "w": 139,
       "h": 139,
-      "nombre": ""
+      "nombre": "Nicolás Berisso"
     },
     {
       "id": 9,
@@ -5618,7 +5618,7 @@
       "y": 304,
       "w": 143,
       "h": 143,
-      "nombre": ""
+      "nombre": "Eloy Beltrame Molina"
     },
     {
       "id": 10,
@@ -5634,7 +5634,7 @@
       "y": 253,
       "w": 155,
       "h": 155,
-      "nombre": ""
+      "nombre": "Tomás Mateus"
     },
     {
       "id": 12,
@@ -5642,7 +5642,7 @@
       "y": 248,
       "w": 139,
       "h": 139,
-      "nombre": ""
+      "nombre": "Alejandro Andereggen"
     },
     {
       "id": 13,
@@ -5650,7 +5650,7 @@
       "y": 522,
       "w": 163,
       "h": 163,
-      "nombre": ""
+      "nombre": "Juan Pablo Tisselli"
     },
     {
       "id": 14,
@@ -5658,7 +5658,7 @@
       "y": 530,
       "w": 161,
       "h": 161,
-      "nombre": ""
+      "nombre": "Marcos Jaeschke"
     },
     {
       "id": 15,
@@ -5666,7 +5666,7 @@
       "y": 541,
       "w": 159,
       "h": 159,
-      "nombre": ""
+      "nombre": "Alejandro Torossian"
     }
   ],
   "2018.jpg": [
@@ -5684,7 +5684,7 @@
       "y": 881,
       "w": 105,
       "h": 105,
-      "nombre": ""
+      "nombre": "José Ignacio Illi"
     },
     {
       "id": 3,
@@ -5692,7 +5692,7 @@
       "y": 886,
       "w": 108,
       "h": 108,
-      "nombre": ""
+      "nombre": "Ignacio Bivort"
     },
     {
       "id": 4,
@@ -5700,7 +5700,7 @@
       "y": 1735,
       "w": 138,
       "h": 138,
-      "nombre": ""
+      "nombre": "Belén Acosta Voegeli"
     },
     {
       "id": 5,
@@ -5708,7 +5708,7 @@
       "y": 1758,
       "w": 125,
       "h": 125,
-      "nombre": ""
+      "nombre": "Guadalupe Oliver"
     },
     {
       "id": 6,
@@ -5716,7 +5716,7 @@
       "y": 1751,
       "w": 139,
       "h": 139,
-      "nombre": ""
+      "nombre": "Kristell Arroyo Hermenegildo"
     },
     {
       "id": 7,
@@ -5724,7 +5724,7 @@
       "y": 869,
       "w": 106,
       "h": 106,
-      "nombre": ""
+      "nombre": "Tomás Gonzalo"
     },
     {
       "id": 8,
@@ -5732,7 +5732,7 @@
       "y": 864,
       "w": 102,
       "h": 102,
-      "nombre": ""
+      "nombre": "Carlos Massanes Betelu"
     },
     {
       "id": 9,
@@ -5740,7 +5740,7 @@
       "y": 867,
       "w": 117,
       "h": 117,
-      "nombre": ""
+      "nombre": "Felipe Acevedo"
     },
     {
       "id": 10,
@@ -5748,7 +5748,7 @@
       "y": 852,
       "w": 103,
       "h": 103,
-      "nombre": ""
+      "nombre": "Victoria De Vincenzi"
     },
     {
       "id": 11,
@@ -5756,7 +5756,7 @@
       "y": 857,
       "w": 112,
       "h": 112,
-      "nombre": ""
+      "nombre": "Francisco Bory"
     },
     {
       "id": 12,
@@ -5764,7 +5764,7 @@
       "y": 859,
       "w": 120,
       "h": 120,
-      "nombre": ""
+      "nombre": "Maximiliano Arduh"
     },
     {
       "id": 13,
@@ -5772,7 +5772,7 @@
       "y": 843,
       "w": 104,
       "h": 104,
-      "nombre": ""
+      "nombre": "Matías Karlsson"
     },
     {
       "id": 14,
@@ -5780,7 +5780,7 @@
       "y": 851,
       "w": 108,
       "h": 108,
-      "nombre": ""
+      "nombre": "Lucas Ramos Oromí"
     },
     {
       "id": 15,
@@ -5796,7 +5796,7 @@
       "y": 955,
       "w": 114,
       "h": 114,
-      "nombre": ""
+      "nombre": "Tomás Fernández Battolla"
     },
     {
       "id": 17,
@@ -5804,7 +5804,7 @@
       "y": 1235,
       "w": 155,
       "h": 155,
-      "nombre": ""
+      "nombre": "Alvaro Gaita"
     },
     {
       "id": 18,
@@ -5812,7 +5812,7 @@
       "y": 959,
       "w": 117,
       "h": 117,
-      "nombre": ""
+      "nombre": "Juan Francisco Abrecht"
     },
     {
       "id": 19,
@@ -5820,7 +5820,7 @@
       "y": 959,
       "w": 118,
       "h": 118,
-      "nombre": ""
+      "nombre": "Damiana Young"
     },
     {
       "id": 20,
@@ -5828,7 +5828,7 @@
       "y": 971,
       "w": 115,
       "h": 115,
-      "nombre": ""
+      "nombre": "Ezequiel Hardoy"
     },
     {
       "id": 21,
@@ -5836,7 +5836,7 @@
       "y": 1236,
       "w": 130,
       "h": 130,
-      "nombre": ""
+      "nombre": "Agustín Ball"
     },
     {
       "id": 22,
@@ -5844,7 +5844,7 @@
       "y": 1248,
       "w": 118,
       "h": 118,
-      "nombre": ""
+      "nombre": "Federico Colombato"
     },
     {
       "id": 23,
@@ -5852,7 +5852,7 @@
       "y": 1240,
       "w": 128,
       "h": 128,
-      "nombre": ""
+      "nombre": "Julieta Vanella"
     },
     {
       "id": 24,
@@ -5860,7 +5860,7 @@
       "y": 1240,
       "w": 120,
       "h": 120,
-      "nombre": ""
+      "nombre": "Agustín Sere"
     },
     {
       "id": 25,
@@ -5868,7 +5868,7 @@
       "y": 1004,
       "w": 115,
       "h": 115,
-      "nombre": ""
+      "nombre": "Hugo Stuven"
     },
     {
       "id": 26,
@@ -5876,7 +5876,7 @@
       "y": 1012,
       "w": 119,
       "h": 119,
-      "nombre": ""
+      "nombre": "Julián Barouille"
     },
     {
       "id": 27,
@@ -5884,7 +5884,7 @@
       "y": 1497,
       "w": 131,
       "h": 131,
-      "nombre": ""
+      "nombre": "Joaquín Nacht"
     },
     {
       "id": 28,
@@ -5916,7 +5916,7 @@
       "y": 969,
       "w": 113,
       "h": 113,
-      "nombre": ""
+      "nombre": "Santiago Paseyro"
     },
     {
       "id": 32,
@@ -5924,7 +5924,7 @@
       "y": 1044,
       "w": 127,
       "h": 127,
-      "nombre": ""
+      "nombre": "Nicolás Burroni"
     },
     {
       "id": 33,
@@ -5956,7 +5956,7 @@
       "y": 1544,
       "w": 156,
       "h": 156,
-      "nombre": ""
+      "nombre": "Matías Jaime Rumich"
     },
     {
       "id": 37,
@@ -5964,7 +5964,7 @@
       "y": 1563,
       "w": 148,
       "h": 148,
-      "nombre": ""
+      "nombre": "Luciano Sartor"
     },
     {
       "id": 38,
@@ -5972,7 +5972,7 @@
       "y": 1641,
       "w": 164,
       "h": 164,
-      "nombre": ""
+      "nombre": "Santiago Fuentes"
     },
     {
       "id": 39,
@@ -5996,7 +5996,7 @@
       "y": 1064,
       "w": 127,
       "h": 127,
-      "nombre": ""
+      "nombre": "Iván Guerberoff"
     },
     {
       "id": 42,
@@ -6004,7 +6004,7 @@
       "y": 1584,
       "w": 139,
       "h": 139,
-      "nombre": ""
+      "nombre": "Juan Facundo Mainero"
     },
     {
       "id": 43,
@@ -6012,7 +6012,7 @@
       "y": 1638,
       "w": 139,
       "h": 139,
-      "nombre": ""
+      "nombre": "Agustín Quintas"
     },
     {
       "id": 44,
@@ -6020,7 +6020,7 @@
       "y": 1095,
       "w": 123,
       "h": 123,
-      "nombre": ""
+      "nombre": "Nicolás Badell"
     },
     {
       "id": 45,
@@ -6028,7 +6028,7 @@
       "y": 1110,
       "w": 117,
       "h": 117,
-      "nombre": ""
+      "nombre": "Valentín Rodrigo"
     },
     {
       "id": 46,
@@ -6044,7 +6044,7 @@
       "y": 1138,
       "w": 115,
       "h": 115,
-      "nombre": ""
+      "nombre": "Celia Garrido García Pumarino"
     },
     {
       "id": 48,
@@ -6052,7 +6052,7 @@
       "y": 794,
       "w": 124,
       "h": 124,
-      "nombre": ""
+      "nombre": "Federico Ruiz"
     },
     {
       "id": 49,
@@ -6060,7 +6060,7 @@
       "y": 791,
       "w": 132,
       "h": 132,
-      "nombre": ""
+      "nombre": "Juan Diego Schneider"
     },
     {
       "id": 50,
@@ -6068,7 +6068,7 @@
       "y": 797,
       "w": 131,
       "h": 131,
-      "nombre": ""
+      "nombre": "Federico Tanzi"
     },
     {
       "id": 51,
@@ -6076,7 +6076,7 @@
       "y": 807,
       "w": 116,
       "h": 116,
-      "nombre": ""
+      "nombre": "Nicolás Rudolph"
     },
     {
       "id": 52,
@@ -6084,7 +6084,7 @@
       "y": 817,
       "w": 125,
       "h": 125,
-      "nombre": ""
+      "nombre": "Agustín Erra"
     },
     {
       "id": 53,
@@ -6092,7 +6092,7 @@
       "y": 823,
       "w": 114,
       "h": 114,
-      "nombre": ""
+      "nombre": "Agustín Espósito"
     },
     {
       "id": 54,
@@ -6100,7 +6100,7 @@
       "y": 808,
       "w": 129,
       "h": 129,
-      "nombre": ""
+      "nombre": "Tomás Najun Zamora"
     },
     {
       "id": 55,
@@ -6108,7 +6108,7 @@
       "y": 827,
       "w": 111,
       "h": 111,
-      "nombre": ""
+      "nombre": "Juan Ignacio Morales"
     },
     {
       "id": 56,
@@ -6116,7 +6116,7 @@
       "y": 826,
       "w": 109,
       "h": 109,
-      "nombre": ""
+      "nombre": "Mateo Ponce de León"
     },
     {
       "id": 57,
@@ -6132,7 +6132,7 @@
       "y": 1170,
       "w": 120,
       "h": 120,
-      "nombre": ""
+      "nombre": "Franco Testori"
     },
     {
       "id": 59,
@@ -6140,7 +6140,7 @@
       "y": 1178,
       "w": 135,
       "h": 135,
-      "nombre": ""
+      "nombre": "Tomás García Piñeiro"
     },
     {
       "id": 60,
@@ -6148,7 +6148,7 @@
       "y": 1181,
       "w": 134,
       "h": 134,
-      "nombre": ""
+      "nombre": "Guido Astorelli"
     },
     {
       "id": 61,
@@ -6156,7 +6156,7 @@
       "y": 1190,
       "w": 126,
       "h": 126,
-      "nombre": ""
+      "nombre": "Tomás Vilaboa"
     },
     {
       "id": 62,
@@ -6172,7 +6172,7 @@
       "y": 1190,
       "w": 126,
       "h": 126,
-      "nombre": ""
+      "nombre": "Ramiro Riadigos"
     },
     {
       "id": 64,
@@ -6180,7 +6180,7 @@
       "y": 1205,
       "w": 138,
       "h": 138,
-      "nombre": ""
+      "nombre": "Juan Ignacio Longo"
     },
     {
       "id": 65,
@@ -6188,7 +6188,7 @@
       "y": 1208,
       "w": 127,
       "h": 127,
-      "nombre": ""
+      "nombre": "Andrew Piscione"
     },
     {
       "id": 66,
@@ -6214,7 +6214,7 @@
       "y": 1395,
       "w": 98,
       "h": 98,
-      "nombre": ""
+      "nombre": "Ignacio Balparda"
     },
     {
       "id": 3,
@@ -6222,7 +6222,7 @@
       "y": 1402,
       "w": 94,
       "h": 94,
-      "nombre": ""
+      "nombre": "Martín Lanfranco"
     },
     {
       "id": 4,
@@ -6230,7 +6230,7 @@
       "y": 1419,
       "w": 102,
       "h": 102,
-      "nombre": ""
+      "nombre": "Juan Manuel Repezza"
     },
     {
       "id": 5,
@@ -6246,7 +6246,7 @@
       "y": 1422,
       "w": 110,
       "h": 110,
-      "nombre": ""
+      "nombre": "Patricio Lynch"
     },
     {
       "id": 7,
@@ -6254,7 +6254,7 @@
       "y": 1541,
       "w": 112,
       "h": 112,
-      "nombre": ""
+      "nombre": "Eugenio Mingoia"
     },
     {
       "id": 8,
@@ -6262,7 +6262,7 @@
       "y": 1552,
       "w": 107,
       "h": 107,
-      "nombre": ""
+      "nombre": "Santiago Lanusse Freixas"
     },
     {
       "id": 9,
@@ -6270,7 +6270,7 @@
       "y": 1515,
       "w": 107,
       "h": 107,
-      "nombre": ""
+      "nombre": "Santiago Alduncin"
     },
     {
       "id": 10,
@@ -6286,7 +6286,7 @@
       "y": 1869,
       "w": 94,
       "h": 94,
-      "nombre": ""
+      "nombre": "Pedro Elewaut"
     },
     {
       "id": 12,
@@ -6302,7 +6302,7 @@
       "y": 1824,
       "w": 103,
       "h": 103,
-      "nombre": ""
+      "nombre": "Lucía Dithurbide"
     },
     {
       "id": 14,
@@ -6310,7 +6310,7 @@
       "y": 1430,
       "w": 93,
       "h": 93,
-      "nombre": ""
+      "nombre": "Mateo Walter"
     },
     {
       "id": 15,
@@ -6318,7 +6318,7 @@
       "y": 1428,
       "w": 102,
       "h": 102,
-      "nombre": ""
+      "nombre": "Eduardo De Achaval"
     },
     {
       "id": 16,
@@ -6334,7 +6334,7 @@
       "y": 1765,
       "w": 106,
       "h": 106,
-      "nombre": ""
+      "nombre": "Leandro Bauret"
     },
     {
       "id": 18,
@@ -6350,7 +6350,7 @@
       "y": 1780,
       "w": 111,
       "h": 111,
-      "nombre": ""
+      "nombre": "Alfonso Rovagnati"
     },
     {
       "id": 20,
@@ -6358,7 +6358,7 @@
       "y": 1445,
       "w": 87,
       "h": 87,
-      "nombre": ""
+      "nombre": "Javier De Oromi Escalada"
     },
     {
       "id": 21,
@@ -6366,7 +6366,7 @@
       "y": 1447,
       "w": 102,
       "h": 102,
-      "nombre": ""
+      "nombre": "Lucas Baronzini"
     },
     {
       "id": 22,
@@ -6374,7 +6374,7 @@
       "y": 1785,
       "w": 103,
       "h": 103,
-      "nombre": ""
+      "nombre": "Milagros Fernández Henshaw"
     },
     {
       "id": 23,
@@ -6382,7 +6382,7 @@
       "y": 1448,
       "w": 100,
       "h": 100,
-      "nombre": ""
+      "nombre": "Matías Gallo"
     },
     {
       "id": 24,
@@ -6390,7 +6390,7 @@
       "y": 1645,
       "w": 116,
       "h": 116,
-      "nombre": ""
+      "nombre": "Franco Liggieri"
     },
     {
       "id": 25,
@@ -6398,7 +6398,7 @@
       "y": 1654,
       "w": 98,
       "h": 98,
-      "nombre": ""
+      "nombre": "Guadalupe Homps"
     },
     {
       "id": 26,
@@ -6406,7 +6406,7 @@
       "y": 1448,
       "w": 99,
       "h": 99,
-      "nombre": ""
+      "nombre": "Jerónimo Carlos"
     },
     {
       "id": 27,
@@ -6414,7 +6414,7 @@
       "y": 1673,
       "w": 99,
       "h": 99,
-      "nombre": ""
+      "nombre": "Rocío Pettigiani"
     },
     {
       "id": 28,
@@ -6422,7 +6422,7 @@
       "y": 1456,
       "w": 91,
       "h": 91,
-      "nombre": ""
+      "nombre": "Esteban Bianchi"
     },
     {
       "id": 29,
@@ -6430,7 +6430,7 @@
       "y": 1453,
       "w": 99,
       "h": 99,
-      "nombre": ""
+      "nombre": "Tomás Pereyra Iraola"
     },
     {
       "id": 30,
@@ -6438,7 +6438,7 @@
       "y": 1689,
       "w": 118,
       "h": 118,
-      "nombre": ""
+      "nombre": "Ariel Cerda"
     },
     {
       "id": 31,
@@ -6446,7 +6446,7 @@
       "y": 1694,
       "w": 115,
       "h": 115,
-      "nombre": ""
+      "nombre": "Juan Pablo Brea"
     },
     {
       "id": 32,
@@ -6462,7 +6462,7 @@
       "y": 1589,
       "w": 121,
       "h": 121,
-      "nombre": ""
+      "nombre": "Luca Molinari Cattarossi"
     },
     {
       "id": 34,
@@ -6478,7 +6478,7 @@
       "y": 1742,
       "w": 108,
       "h": 108,
-      "nombre": ""
+      "nombre": "Sebastián Iglesias"
     },
     {
       "id": 36,
@@ -6486,7 +6486,7 @@
       "y": 1457,
       "w": 104,
       "h": 104,
-      "nombre": ""
+      "nombre": "Tomás Garcia Mansilla"
     },
     {
       "id": 37,
@@ -6494,7 +6494,7 @@
       "y": 1722,
       "w": 102,
       "h": 102,
-      "nombre": ""
+      "nombre": "Ezequiel Beneito"
     },
     {
       "id": 38,
@@ -6502,7 +6502,7 @@
       "y": 1467,
       "w": 100,
       "h": 100,
-      "nombre": ""
+      "nombre": "Federico Favale"
     },
     {
       "id": 39,
@@ -6510,7 +6510,7 @@
       "y": 1790,
       "w": 104,
       "h": 104,
-      "nombre": ""
+      "nombre": "Camila Castagnaro"
     },
     {
       "id": 40,
@@ -6518,7 +6518,7 @@
       "y": 1788,
       "w": 115,
       "h": 115,
-      "nombre": ""
+      "nombre": "Ignacio Vazquez Agostinho"
     },
     {
       "id": 41,
@@ -6526,7 +6526,7 @@
       "y": 1802,
       "w": 100,
       "h": 100,
-      "nombre": ""
+      "nombre": "Sofía Scheidegger"
     },
     {
       "id": 42,
@@ -6534,7 +6534,7 @@
       "y": 1794,
       "w": 108,
       "h": 108,
-      "nombre": ""
+      "nombre": "Carlos Mouriño"
     },
     {
       "id": 43,
@@ -6542,7 +6542,7 @@
       "y": 1731,
       "w": 114,
       "h": 114,
-      "nombre": ""
+      "nombre": "Marcos Adhemar"
     },
     {
       "id": 44,
@@ -6550,7 +6550,7 @@
       "y": 1484,
       "w": 108,
       "h": 108,
-      "nombre": ""
+      "nombre": "Marcos Della Pia Morano"
     },
     {
       "id": 45,
@@ -6558,7 +6558,7 @@
       "y": 1618,
       "w": 110,
       "h": 110,
-      "nombre": ""
+      "nombre": "Ignacio Goyanes"
     },
     {
       "id": 46,
@@ -6566,7 +6566,7 @@
       "y": 1627,
       "w": 103,
       "h": 103,
-      "nombre": ""
+      "nombre": "Catalina Arredondo Maiztegui"
     },
     {
       "id": 47,
@@ -6590,7 +6590,7 @@
       "y": 1505,
       "w": 90,
       "h": 90,
-      "nombre": ""
+      "nombre": "Constanza Gambetti"
     },
     {
       "id": 50,
@@ -6598,7 +6598,7 @@
       "y": 1513,
       "w": 101,
       "h": 101,
-      "nombre": ""
+      "nombre": "Segundo Speroni"
     },
     {
       "id": 51,
@@ -6622,7 +6622,7 @@
       "y": 1523,
       "w": 102,
       "h": 102,
-      "nombre": ""
+      "nombre": "Marcos Garcia Verdier"
     },
     {
       "id": 54,
@@ -6646,7 +6646,7 @@
       "y": 1599,
       "w": 103,
       "h": 103,
-      "nombre": ""
+      "nombre": "Juan Pablo Tito"
     },
     {
       "id": 57,
@@ -6654,7 +6654,7 @@
       "y": 1629,
       "w": 97,
       "h": 97,
-      "nombre": ""
+      "nombre": "Sofía Marti Garro"
     },
     {
       "id": 58,
@@ -6662,7 +6662,7 @@
       "y": 1645,
       "w": 102,
       "h": 102,
-      "nombre": ""
+      "nombre": "Ailin Capdepont"
     },
     {
       "id": 59,
@@ -6704,7 +6704,7 @@
       "y": 2126,
       "w": 105,
       "h": 105,
-      "nombre": ""
+      "nombre": "Juan Ignacio Simone Cao"
     },
     {
       "id": 4,
@@ -6712,7 +6712,7 @@
       "y": 2343,
       "w": 103,
       "h": 103,
-      "nombre": ""
+      "nombre": "Manuel Soria"
     },
     {
       "id": 5,
@@ -6720,7 +6720,7 @@
       "y": 2213,
       "w": 111,
       "h": 111,
-      "nombre": ""
+      "nombre": "Lucas Petralli"
     },
     {
       "id": 6,
@@ -6728,7 +6728,7 @@
       "y": 2423,
       "w": 99,
       "h": 99,
-      "nombre": ""
+      "nombre": "Oriana Comuzzi"
     },
     {
       "id": 7,
@@ -6736,7 +6736,7 @@
       "y": 2509,
       "w": 102,
       "h": 102,
-      "nombre": ""
+      "nombre": "Andrés Ghini"
     },
     {
       "id": 8,
@@ -6744,7 +6744,7 @@
       "y": 2514,
       "w": 107,
       "h": 107,
-      "nombre": ""
+      "nombre": "Martín Yunis"
     },
     {
       "id": 9,
@@ -6752,7 +6752,7 @@
       "y": 2512,
       "w": 105,
       "h": 105,
-      "nombre": ""
+      "nombre": "Joaquín Minvielle"
     },
     {
       "id": 10,
@@ -6760,7 +6760,7 @@
       "y": 2525,
       "w": 89,
       "h": 89,
-      "nombre": ""
+      "nombre": "Azul Fernández Iriarte"
     },
     {
       "id": 11,
@@ -6768,7 +6768,7 @@
       "y": 2443,
       "w": 108,
       "h": 108,
-      "nombre": ""
+      "nombre": "Francisco Ferrari"
     },
     {
       "id": 12,
@@ -6776,7 +6776,7 @@
       "y": 2445,
       "w": 100,
       "h": 100,
-      "nombre": ""
+      "nombre": "Jazmín Ortega"
     },
     {
       "id": 13,
@@ -6784,7 +6784,7 @@
       "y": 2455,
       "w": 95,
       "h": 95,
-      "nombre": ""
+      "nombre": "Sol Galarraga"
     },
     {
       "id": 14,
@@ -6792,7 +6792,7 @@
       "y": 2311,
       "w": 100,
       "h": 100,
-      "nombre": ""
+      "nombre": "Facundo Marcone Ancely"
     },
     {
       "id": 15,
@@ -6800,7 +6800,7 @@
       "y": 2039,
       "w": 108,
       "h": 108,
-      "nombre": ""
+      "nombre": "Juan Gandolfo Gahan"
     },
     {
       "id": 16,
@@ -6808,7 +6808,7 @@
       "y": 2100,
       "w": 97,
       "h": 97,
-      "nombre": ""
+      "nombre": "Patricio Rickert"
     },
     {
       "id": 17,
@@ -6816,7 +6816,7 @@
       "y": 2102,
       "w": 99,
       "h": 99,
-      "nombre": ""
+      "nombre": "Bruno Ledesma"
     },
     {
       "id": 18,
@@ -6824,7 +6824,7 @@
       "y": 2561,
       "w": 105,
       "h": 105,
-      "nombre": ""
+      "nombre": "Agustín Sánchez Nerguizian"
     },
     {
       "id": 19,
@@ -6832,7 +6832,7 @@
       "y": 2180,
       "w": 96,
       "h": 96,
-      "nombre": ""
+      "nombre": "Santiago Allende"
     },
     {
       "id": 20,
@@ -6840,7 +6840,7 @@
       "y": 2167,
       "w": 100,
       "h": 100,
-      "nombre": ""
+      "nombre": "Máximo Dupont"
     },
     {
       "id": 21,
@@ -6848,7 +6848,7 @@
       "y": 2461,
       "w": 99,
       "h": 99,
-      "nombre": ""
+      "nombre": "Francisco Cotti"
     },
     {
       "id": 22,
@@ -6856,7 +6856,7 @@
       "y": 2452,
       "w": 118,
       "h": 118,
-      "nombre": ""
+      "nombre": "Marcos Valls"
     },
     {
       "id": 23,
@@ -6864,7 +6864,7 @@
       "y": 2465,
       "w": 107,
       "h": 107,
-      "nombre": ""
+      "nombre": "Julián Di Gregorio"
     },
     {
       "id": 24,
@@ -6872,7 +6872,7 @@
       "y": 2472,
       "w": 105,
       "h": 105,
-      "nombre": ""
+      "nombre": "Lucas Donnelly"
     },
     {
       "id": 25,
@@ -6880,7 +6880,7 @@
       "y": 2471,
       "w": 106,
       "h": 106,
-      "nombre": ""
+      "nombre": "Juan Cruz Rolon Varela"
     },
     {
       "id": 26,
@@ -6888,7 +6888,7 @@
       "y": 1974,
       "w": 94,
       "h": 94,
-      "nombre": ""
+      "nombre": "Santiago Ganzabal"
     },
     {
       "id": 27,
@@ -6896,7 +6896,7 @@
       "y": 1985,
       "w": 96,
       "h": 96,
-      "nombre": ""
+      "nombre": "Felix de Achaval"
     },
     {
       "id": 28,
@@ -6904,7 +6904,7 @@
       "y": 2003,
       "w": 100,
       "h": 100,
-      "nombre": ""
+      "nombre": "Agustín Gomez Ferreyra"
     },
     {
       "id": 29,
@@ -6912,7 +6912,7 @@
       "y": 2080,
       "w": 104,
       "h": 104,
-      "nombre": ""
+      "nombre": "Matías Monferrer"
     },
     {
       "id": 30,
@@ -6920,7 +6920,7 @@
       "y": 2097,
       "w": 92,
       "h": 92,
-      "nombre": ""
+      "nombre": "Michele Re"
     },
     {
       "id": 31,
@@ -6928,7 +6928,7 @@
       "y": 2495,
       "w": 98,
       "h": 98,
-      "nombre": ""
+      "nombre": "Cecilia Browne"
     },
     {
       "id": 32,
@@ -6936,7 +6936,7 @@
       "y": 2502,
       "w": 105,
       "h": 105,
-      "nombre": ""
+      "nombre": "Matías Salemme"
     },
     {
       "id": 33,
@@ -6944,7 +6944,7 @@
       "y": 2512,
       "w": 94,
       "h": 94,
-      "nombre": ""
+      "nombre": "Martín Radovitzky"
     },
     {
       "id": 34,
@@ -6968,7 +6968,7 @@
       "y": 2020,
       "w": 101,
       "h": 101,
-      "nombre": ""
+      "nombre": "Federico Neme Agnesi"
     },
     {
       "id": 37,
@@ -6976,7 +6976,7 @@
       "y": 2015,
       "w": 101,
       "h": 101,
-      "nombre": ""
+      "nombre": "Tomás Forman"
     },
     {
       "id": 38,
@@ -6984,7 +6984,7 @@
       "y": 2023,
       "w": 102,
       "h": 102,
-      "nombre": ""
+      "nombre": "Marcos Berges"
     },
     {
       "id": 39,
@@ -6992,7 +6992,7 @@
       "y": 2021,
       "w": 88,
       "h": 88,
-      "nombre": ""
+      "nombre": "Franco Manochi"
     },
     {
       "id": 40,
@@ -7000,7 +7000,7 @@
       "y": 2029,
       "w": 93,
       "h": 93,
-      "nombre": ""
+      "nombre": "Lorenzo Burgwardt Rodriguez"
     },
     {
       "id": 41,
@@ -7008,7 +7008,7 @@
       "y": 2028,
       "w": 94,
       "h": 94,
-      "nombre": ""
+      "nombre": "Nicolás Padros"
     },
     {
       "id": 42,
@@ -7016,7 +7016,7 @@
       "y": 2031,
       "w": 100,
       "h": 100,
-      "nombre": ""
+      "nombre": "Gonzalo Ambroa"
     },
     {
       "id": 43,
@@ -7024,7 +7024,7 @@
       "y": 2033,
       "w": 92,
       "h": 92,
-      "nombre": ""
+      "nombre": "Ignacio Viglierchio"
     },
     {
       "id": 44,
@@ -7032,7 +7032,7 @@
       "y": 2055,
       "w": 103,
       "h": 103,
-      "nombre": ""
+      "nombre": "Tomás Fernández Martínez"
     },
     {
       "id": 45,
@@ -7040,7 +7040,7 @@
       "y": 2060,
       "w": 99,
       "h": 99,
-      "nombre": ""
+      "nombre": "Francisco Ceriani"
     },
     {
       "id": 46,
@@ -7048,7 +7048,7 @@
       "y": 2062,
       "w": 101,
       "h": 101,
-      "nombre": ""
+      "nombre": "Matías Cicilia"
     },
     {
       "id": 47,
@@ -7056,7 +7056,7 @@
       "y": 1995,
       "w": 84,
       "h": 84,
-      "nombre": ""
+      "nombre": "Ignacio Berdiñas"
     },
     {
       "id": 48,
@@ -7064,7 +7064,7 @@
       "y": 2082,
       "w": 91,
       "h": 91,
-      "nombre": ""
+      "nombre": "Brian Re"
     },
     {
       "id": 49,
@@ -7076,11 +7076,11 @@
     },
     {
       "id": 50,
-      "x": 2942,
+      "x": 3032,
       "y": 2106,
-      "w": 80,
-      "h": 80,
-      "nombre": ""
+      "w": 90,
+      "h": 90,
+      "nombre": "Agustín Masuelli"
     },
     {
       "id": 51,
@@ -7114,7 +7114,7 @@
       "y": 2245,
       "w": 115,
       "h": 115,
-      "nombre": ""
+      "nombre": "José Uriburu"
     },
     {
       "id": 4,
@@ -7130,7 +7130,7 @@
       "y": 1791,
       "w": 104,
       "h": 104,
-      "nombre": ""
+      "nombre": "Iván Ricur"
     },
     {
       "id": 6,
@@ -7138,7 +7138,7 @@
       "y": 1974,
       "w": 105,
       "h": 105,
-      "nombre": ""
+      "nombre": "Juan Cruz Teruggi Gonzalez"
     },
     {
       "id": 7,
@@ -7146,7 +7146,7 @@
       "y": 1946,
       "w": 109,
       "h": 109,
-      "nombre": ""
+      "nombre": "Lucila Diamore Basilio"
     },
     {
       "id": 8,
@@ -7154,7 +7154,7 @@
       "y": 1972,
       "w": 94,
       "h": 94,
-      "nombre": ""
+      "nombre": "Micaela Aragona"
     },
     {
       "id": 9,
@@ -7162,7 +7162,7 @@
       "y": 1888,
       "w": 113,
       "h": 113,
-      "nombre": ""
+      "nombre": "Agostina Raviele"
     },
     {
       "id": 10,
@@ -7170,7 +7170,7 @@
       "y": 1892,
       "w": 101,
       "h": 101,
-      "nombre": ""
+      "nombre": "Victoria Marti Garro"
     },
     {
       "id": 11,
@@ -7178,7 +7178,7 @@
       "y": 1887,
       "w": 108,
       "h": 108,
-      "nombre": ""
+      "nombre": "Martina Christin"
     },
     {
       "id": 12,
@@ -7186,7 +7186,7 @@
       "y": 2074,
       "w": 118,
       "h": 118,
-      "nombre": ""
+      "nombre": "Mateo Weihmüller"
     },
     {
       "id": 13,
@@ -7202,7 +7202,7 @@
       "y": 2093,
       "w": 120,
       "h": 120,
-      "nombre": ""
+      "nombre": "Joaquín Gómez Codino"
     },
     {
       "id": 15,
@@ -7210,7 +7210,7 @@
       "y": 1783,
       "w": 115,
       "h": 115,
-      "nombre": ""
+      "nombre": "Santiago Volpe"
     },
     {
       "id": 16,
@@ -7218,7 +7218,7 @@
       "y": 1788,
       "w": 113,
       "h": 113,
-      "nombre": ""
+      "nombre": "Derek Alepidote"
     },
     {
       "id": 17,
@@ -7234,7 +7234,7 @@
       "y": 2166,
       "w": 123,
       "h": 123,
-      "nombre": ""
+      "nombre": "Ignacio De la Vega"
     },
     {
       "id": 19,
@@ -7242,7 +7242,7 @@
       "y": 2177,
       "w": 120,
       "h": 120,
-      "nombre": ""
+      "nombre": "Santiago Converso"
     },
     {
       "id": 20,
@@ -7250,7 +7250,7 @@
       "y": 2193,
       "w": 118,
       "h": 118,
-      "nombre": ""
+      "nombre": "Tomás Lynch"
     },
     {
       "id": 21,
@@ -7258,7 +7258,7 @@
       "y": 2209,
       "w": 118,
       "h": 118,
-      "nombre": ""
+      "nombre": "Nicolás Curat Vallenilla"
     },
     {
       "id": 22,
@@ -7266,7 +7266,7 @@
       "y": 2206,
       "w": 127,
       "h": 127,
-      "nombre": ""
+      "nombre": "Lucas Borghi"
     },
     {
       "id": 23,
@@ -7274,7 +7274,7 @@
       "y": 1637,
       "w": 117,
       "h": 117,
-      "nombre": ""
+      "nombre": "Manuel Dieguez"
     },
     {
       "id": 24,
@@ -7290,7 +7290,7 @@
       "y": 1590,
       "w": 133,
       "h": 133,
-      "nombre": ""
+      "nombre": "Gonzalo de Achaval"
     },
     {
       "id": 26,
@@ -7306,7 +7306,7 @@
       "y": 1831,
       "w": 95,
       "h": 95,
-      "nombre": ""
+      "nombre": "Victoria Castagnaro"
     },
     {
       "id": 28,
@@ -7322,7 +7322,7 @@
       "y": 1825,
       "w": 111,
       "h": 111,
-      "nombre": ""
+      "nombre": "María de los Ángeles Chiang"
     },
     {
       "id": 30,
@@ -7330,7 +7330,7 @@
       "y": 2207,
       "w": 111,
       "h": 111,
-      "nombre": ""
+      "nombre": "Ignacio Pujato"
     },
     {
       "id": 31,
@@ -7346,7 +7346,7 @@
       "y": 1584,
       "w": 116,
       "h": 116,
-      "nombre": ""
+      "nombre": "Marcos López Lecube"
     },
     {
       "id": 33,
@@ -7354,7 +7354,7 @@
       "y": 1608,
       "w": 108,
       "h": 108,
-      "nombre": ""
+      "nombre": "Octavio Henschien"
     },
     {
       "id": 34,
@@ -7362,7 +7362,7 @@
       "y": 1695,
       "w": 117,
       "h": 117,
-      "nombre": ""
+      "nombre": "Pablo Mercuri"
     },
     {
       "id": 35,
@@ -7378,7 +7378,7 @@
       "y": 2151,
       "w": 132,
       "h": 132,
-      "nombre": ""
+      "nombre": "Matías Venditti"
     },
     {
       "id": 37,
@@ -7386,7 +7386,7 @@
       "y": 2151,
       "w": 127,
       "h": 127,
-      "nombre": ""
+      "nombre": "Brian Froschauer"
     },
     {
       "id": 38,
@@ -7394,7 +7394,7 @@
       "y": 2176,
       "w": 107,
       "h": 107,
-      "nombre": ""
+      "nombre": "Juan Ballester Molina"
     },
     {
       "id": 39,
@@ -7410,7 +7410,7 @@
       "y": 1619,
       "w": 104,
       "h": 104,
-      "nombre": ""
+      "nombre": "Nicolás Moreno"
     },
     {
       "id": 41,
@@ -7426,7 +7426,7 @@
       "y": 1761,
       "w": 100,
       "h": 100,
-      "nombre": ""
+      "nombre": "Matías Busmail"
     },
     {
       "id": 43,
@@ -7442,7 +7442,7 @@
       "y": 1639,
       "w": 103,
       "h": 103,
-      "nombre": ""
+      "nombre": "Gianluca Scolaro"
     },
     {
       "id": 45,
@@ -7450,7 +7450,7 @@
       "y": 1769,
       "w": 105,
       "h": 105,
-      "nombre": ""
+      "nombre": "Agustín Bettati"
     },
     {
       "id": 46,
@@ -7458,7 +7458,7 @@
       "y": 1770,
       "w": 106,
       "h": 106,
-      "nombre": ""
+      "nombre": "Andrés Palmai"
     },
     {
       "id": 47,
@@ -7466,7 +7466,7 @@
       "y": 1786,
       "w": 102,
       "h": 102,
-      "nombre": ""
+      "nombre": "Tomás Bottazzini"
     },
     {
       "id": 48,
@@ -7474,7 +7474,7 @@
       "y": 1792,
       "w": 91,
       "h": 91,
-      "nombre": ""
+      "nombre": "Fermín Castro Madero"
     },
     {
       "id": 49,
@@ -7482,7 +7482,7 @@
       "y": 1726,
       "w": 114,
       "h": 114,
-      "nombre": ""
+      "nombre": "Sebastián Díaz de Valdés Grebe"
     },
     {
       "id": 50,
@@ -7490,7 +7490,7 @@
       "y": 1703,
       "w": 116,
       "h": 116,
-      "nombre": ""
+      "nombre": "Tomás Iturralde"
     },
     {
       "id": 51,
@@ -7498,7 +7498,7 @@
       "y": 1718,
       "w": 112,
       "h": 112,
-      "nombre": ""
+      "nombre": "Emilio Poitevin"
     },
     {
       "id": 52,
@@ -7506,7 +7506,7 @@
       "y": 1733,
       "w": 102,
       "h": 102,
-      "nombre": ""
+      "nombre": "Joaquín Ramognino"
     },
     {
       "id": 53,
@@ -7514,7 +7514,7 @@
       "y": 1712,
       "w": 115,
       "h": 115,
-      "nombre": ""
+      "nombre": "Faustino Osterc"
     },
     {
       "id": 54,
@@ -7522,7 +7522,7 @@
       "y": 1710,
       "w": 116,
       "h": 116,
-      "nombre": ""
+      "nombre": "Nicolás Alderete Duggan"
     },
     {
       "id": 55,
@@ -7530,7 +7530,7 @@
       "y": 1728,
       "w": 113,
       "h": 113,
-      "nombre": ""
+      "nombre": "Luca Chierasco"
     },
     {
       "id": 56,
@@ -7538,7 +7538,7 @@
       "y": 1730,
       "w": 112,
       "h": 112,
-      "nombre": ""
+      "nombre": "Dante Massera"
     },
     {
       "id": 57,
@@ -7546,7 +7546,7 @@
       "y": 1733,
       "w": 99,
       "h": 99,
-      "nombre": ""
+      "nombre": "Jaime Chevallier Boutell"
     },
     {
       "id": 58,
@@ -7554,7 +7554,7 @@
       "y": 1755,
       "w": 104,
       "h": 104,
-      "nombre": ""
+      "nombre": "Marcos Khabie"
     },
     {
       "id": 59,
@@ -7562,7 +7562,7 @@
       "y": 1680,
       "w": 100,
       "h": 100,
-      "nombre": ""
+      "nombre": "Joaquín Balparda"
     },
     {
       "id": 60,
@@ -7570,7 +7570,7 @@
       "y": 1678,
       "w": 99,
       "h": 99,
-      "nombre": ""
+      "nombre": "Santiago Lentino"
     },
     {
       "id": 61,
@@ -7578,7 +7578,7 @@
       "y": 1675,
       "w": 113,
       "h": 113,
-      "nombre": ""
+      "nombre": "Bruno De Luca"
     },
     {
       "id": 62,
@@ -7586,7 +7586,7 @@
       "y": 1687,
       "w": 106,
       "h": 106,
-      "nombre": ""
+      "nombre": "Tomás Campi"
     },
     {
       "id": 63,
@@ -7602,7 +7602,7 @@
       "y": 1707,
       "w": 105,
       "h": 105,
-      "nombre": ""
+      "nombre": "Agustín Lariguet"
     },
     {
       "id": 65,
@@ -7610,7 +7610,7 @@
       "y": 1716,
       "w": 103,
       "h": 103,
-      "nombre": ""
+      "nombre": "Matías Herreros"
     },
     {
       "id": 66,
@@ -7618,7 +7618,7 @@
       "y": 1851,
       "w": 92,
       "h": 92,
-      "nombre": ""
+      "nombre": "Florencia Vimberg"
     },
     {
       "id": 67,
@@ -7626,7 +7626,7 @@
       "y": 1701,
       "w": 97,
       "h": 97,
-      "nombre": ""
+      "nombre": "Francisco Rivera Mirande"
     },
     {
       "id": 68,
@@ -7652,7 +7652,7 @@
       "y": 1706,
       "w": 81,
       "h": 81,
-      "nombre": ""
+      "nombre": "Andrés Bettati"
     },
     {
       "id": 2,
@@ -7660,7 +7660,7 @@
       "y": 1715,
       "w": 90,
       "h": 90,
-      "nombre": ""
+      "nombre": "Juan Ignacio Belagardi"
     },
     {
       "id": 3,
@@ -7668,7 +7668,7 @@
       "y": 1716,
       "w": 85,
       "h": 85,
-      "nombre": ""
+      "nombre": "Lina Carosso"
     },
     {
       "id": 4,
@@ -7676,7 +7676,7 @@
       "y": 1715,
       "w": 88,
       "h": 88,
-      "nombre": ""
+      "nombre": "Javier Lorenzo García"
     },
     {
       "id": 5,
@@ -7684,7 +7684,7 @@
       "y": 1668,
       "w": 84,
       "h": 84,
-      "nombre": ""
+      "nombre": "Franco Morelli"
     },
     {
       "id": 6,
@@ -7700,7 +7700,7 @@
       "y": 1676,
       "w": 110,
       "h": 110,
-      "nombre": ""
+      "nombre": "Ramiro Hormaechea"
     },
     {
       "id": 8,
@@ -7708,7 +7708,7 @@
       "y": 1690,
       "w": 91,
       "h": 91,
-      "nombre": ""
+      "nombre": "Federico Losio"
     },
     {
       "id": 9,
@@ -7716,7 +7716,7 @@
       "y": 1689,
       "w": 89,
       "h": 89,
-      "nombre": ""
+      "nombre": "David Cerbino"
     },
     {
       "id": 10,
@@ -7724,7 +7724,7 @@
       "y": 1689,
       "w": 89,
       "h": 89,
-      "nombre": ""
+      "nombre": "Nicolás Schejtman"
     },
     {
       "id": 11,
@@ -7732,7 +7732,7 @@
       "y": 1609,
       "w": 91,
       "h": 91,
-      "nombre": ""
+      "nombre": "Mariano Oberst"
     },
     {
       "id": 12,
@@ -7740,7 +7740,7 @@
       "y": 1784,
       "w": 100,
       "h": 100,
-      "nombre": ""
+      "nombre": "María Florencia Vera"
     },
     {
       "id": 13,
@@ -7748,7 +7748,7 @@
       "y": 1797,
       "w": 86,
       "h": 86,
-      "nombre": ""
+      "nombre": "Franco Palumbo"
     },
     {
       "id": 14,
@@ -7756,7 +7756,7 @@
       "y": 1792,
       "w": 106,
       "h": 106,
-      "nombre": ""
+      "nombre": "Ignacio Penissi Minervini"
     },
     {
       "id": 15,
@@ -7764,7 +7764,7 @@
       "y": 1799,
       "w": 94,
       "h": 94,
-      "nombre": ""
+      "nombre": "Iñaki Flores"
     },
     {
       "id": 16,
@@ -7772,7 +7772,7 @@
       "y": 1807,
       "w": 95,
       "h": 95,
-      "nombre": ""
+      "nombre": "Pablo Pereyra Iraola"
     },
     {
       "id": 17,
@@ -7780,7 +7780,7 @@
       "y": 1806,
       "w": 89,
       "h": 89,
-      "nombre": ""
+      "nombre": "Gonzalo Vallejos Davide"
     },
     {
       "id": 18,
@@ -7788,7 +7788,7 @@
       "y": 1808,
       "w": 87,
       "h": 87,
-      "nombre": ""
+      "nombre": "Efraín Zanetti Turco"
     },
     {
       "id": 19,
@@ -7796,7 +7796,7 @@
       "y": 1810,
       "w": 89,
       "h": 89,
-      "nombre": ""
+      "nombre": "Josefina Juarez"
     },
     {
       "id": 20,
@@ -7804,7 +7804,7 @@
       "y": 1805,
       "w": 91,
       "h": 91,
-      "nombre": ""
+      "nombre": "Felicitas Lanusse"
     },
     {
       "id": 21,
@@ -7812,7 +7812,7 @@
       "y": 1715,
       "w": 117,
       "h": 117,
-      "nombre": ""
+      "nombre": "Martín Iglesias"
     },
     {
       "id": 22,
@@ -7820,7 +7820,7 @@
       "y": 1885,
       "w": 117,
       "h": 117,
-      "nombre": ""
+      "nombre": "Franz Soto Leal"
     },
     {
       "id": 23,
@@ -7828,7 +7828,7 @@
       "y": 1833,
       "w": 120,
       "h": 120,
-      "nombre": ""
+      "nombre": "Joaquín Sydransky"
     },
     {
       "id": 24,
@@ -7836,7 +7836,7 @@
       "y": 1743,
       "w": 84,
       "h": 84,
-      "nombre": ""
+      "nombre": "Pilar Collini"
     },
     {
       "id": 25,
@@ -7844,7 +7844,7 @@
       "y": 1733,
       "w": 102,
       "h": 102,
-      "nombre": ""
+      "nombre": "Rodrigo Pazos"
     },
     {
       "id": 26,
@@ -7852,7 +7852,7 @@
       "y": 1734,
       "w": 106,
       "h": 106,
-      "nombre": ""
+      "nombre": "Santiago Carullo"
     },
     {
       "id": 27,
@@ -7860,7 +7860,7 @@
       "y": 1760,
       "w": 105,
       "h": 105,
-      "nombre": ""
+      "nombre": "Agustín Fernandez Mc Loughlin"
     },
     {
       "id": 28,
@@ -7868,7 +7868,7 @@
       "y": 1640,
       "w": 100,
       "h": 100,
-      "nombre": ""
+      "nombre": "Mariano Longo"
     },
     {
       "id": 29,
@@ -7876,7 +7876,7 @@
       "y": 1650,
       "w": 86,
       "h": 86,
-      "nombre": ""
+      "nombre": "Agustín Chaufan"
     },
     {
       "id": 30,
@@ -7884,7 +7884,7 @@
       "y": 1644,
       "w": 94,
       "h": 94,
-      "nombre": ""
+      "nombre": "Máximo La Pietra"
     },
     {
       "id": 31,
@@ -7892,7 +7892,7 @@
       "y": 1642,
       "w": 103,
       "h": 103,
-      "nombre": ""
+      "nombre": "Franco Mica"
     },
     {
       "id": 32,
@@ -7900,7 +7900,7 @@
       "y": 1652,
       "w": 94,
       "h": 94,
-      "nombre": ""
+      "nombre": "Matías Ponce"
     },
     {
       "id": 33,
@@ -7908,7 +7908,7 @@
       "y": 1657,
       "w": 90,
       "h": 90,
-      "nombre": ""
+      "nombre": "Franco Velardez"
     },
     {
       "id": 34,
@@ -7916,7 +7916,7 @@
       "y": 1812,
       "w": 100,
       "h": 100,
-      "nombre": ""
+      "nombre": "María Sol Benvenuto"
     },
     {
       "id": 35,
@@ -7924,7 +7924,7 @@
       "y": 1815,
       "w": 94,
       "h": 94,
-      "nombre": ""
+      "nombre": "Pablo Berger"
     },
     {
       "id": 36,
@@ -7932,7 +7932,7 @@
       "y": 1818,
       "w": 88,
       "h": 88,
-      "nombre": ""
+      "nombre": "Constanza Lannutti"
     },
     {
       "id": 37,
@@ -7940,7 +7940,7 @@
       "y": 1819,
       "w": 92,
       "h": 92,
-      "nombre": ""
+      "nombre": "Luz Serra"
     },
     {
       "id": 38,
@@ -7948,7 +7948,7 @@
       "y": 1921,
       "w": 113,
       "h": 113,
-      "nombre": ""
+      "nombre": "Martín Gaddi"
     },
     {
       "id": 39,
@@ -7956,7 +7956,7 @@
       "y": 1767,
       "w": 99,
       "h": 99,
-      "nombre": ""
+      "nombre": "Martín Acosta Soto"
     },
     {
       "id": 40,
@@ -7972,7 +7972,7 @@
       "y": 1965,
       "w": 137,
       "h": 137,
-      "nombre": ""
+      "nombre": "Valentina Atalah"
     },
     {
       "id": 42,
@@ -7980,7 +7980,7 @@
       "y": 2004,
       "w": 101,
       "h": 101,
-      "nombre": ""
+      "nombre": "Agustina Medone"
     },
     {
       "id": 43,
@@ -7988,7 +7988,7 @@
       "y": 2012,
       "w": 119,
       "h": 119,
-      "nombre": ""
+      "nombre": "Carlos Gonzalez Guerrico"
     },
     {
       "id": 44,
@@ -8004,7 +8004,7 @@
       "y": 1926,
       "w": 101,
       "h": 101,
-      "nombre": ""
+      "nombre": "Tobías Litwin"
     },
     {
       "id": 46,
@@ -8012,7 +8012,7 @@
       "y": 1934,
       "w": 103,
       "h": 103,
-      "nombre": ""
+      "nombre": "Diego Cancelliere"
     },
     {
       "id": 47,
@@ -8020,7 +8020,7 @@
       "y": 1918,
       "w": 106,
       "h": 106,
-      "nombre": ""
+      "nombre": "Fabrizio Di Santo"
     },
     {
       "id": 48,
@@ -8044,7 +8044,7 @@
       "y": 1910,
       "w": 101,
       "h": 101,
-      "nombre": ""
+      "nombre": "Juan Cruz Pisani"
     },
     {
       "id": 51,
@@ -8052,7 +8052,7 @@
       "y": 1972,
       "w": 101,
       "h": 101,
-      "nombre": ""
+      "nombre": "Nicolás Maldonado Blanco Silva"
     },
     {
       "id": 52,
@@ -8060,7 +8060,7 @@
       "y": 1968,
       "w": 104,
       "h": 104,
-      "nombre": ""
+      "nombre": "Nicolás Blanco"
     },
     {
       "id": 53,
@@ -8068,7 +8068,7 @@
       "y": 1975,
       "w": 105,
       "h": 105,
-      "nombre": ""
+      "nombre": "Francisco Colatruglio"
     },
     {
       "id": 54,
@@ -8076,7 +8076,7 @@
       "y": 1982,
       "w": 105,
       "h": 105,
-      "nombre": ""
+      "nombre": "Ariel Mirra Gonzalez"
     }
   ],
   "2023.jpg": [
@@ -8086,7 +8086,7 @@
       "y": 1363,
       "w": 91,
       "h": 91,
-      "nombre": ""
+      "nombre": "Braian Biale"
     },
     {
       "id": 2,
@@ -8094,7 +8094,7 @@
       "y": 1341,
       "w": 119,
       "h": 119,
-      "nombre": ""
+      "nombre": "Patricio Rustan"
     },
     {
       "id": 3,
@@ -8102,7 +8102,7 @@
       "y": 1813,
       "w": 112,
       "h": 112,
-      "nombre": ""
+      "nombre": "Rocío Ferreiro Rico"
     },
     {
       "id": 4,
@@ -8110,7 +8110,7 @@
       "y": 1344,
       "w": 114,
       "h": 114,
-      "nombre": ""
+      "nombre": "Tomás Tamaki"
     },
     {
       "id": 5,
@@ -8118,7 +8118,7 @@
       "y": 1341,
       "w": 117,
       "h": 117,
-      "nombre": ""
+      "nombre": "Tomás Recio"
     },
     {
       "id": 6,
@@ -8134,7 +8134,7 @@
       "y": 1360,
       "w": 113,
       "h": 113,
-      "nombre": ""
+      "nombre": "Mateo Vázquez Soria"
     },
     {
       "id": 8,
@@ -8150,7 +8150,7 @@
       "y": 1855,
       "w": 132,
       "h": 132,
-      "nombre": ""
+      "nombre": "María Paz Cagliari Loyola"
     },
     {
       "id": 10,
@@ -8158,7 +8158,7 @@
       "y": 1364,
       "w": 109,
       "h": 109,
-      "nombre": ""
+      "nombre": "Tomás Aguirre Wolman"
     },
     {
       "id": 11,
@@ -8166,7 +8166,7 @@
       "y": 1495,
       "w": 117,
       "h": 117,
-      "nombre": ""
+      "nombre": "Marcos Ziffer"
     },
     {
       "id": 12,
@@ -8174,7 +8174,7 @@
       "y": 1493,
       "w": 116,
       "h": 116,
-      "nombre": ""
+      "nombre": "Clemente Sartan"
     },
     {
       "id": 13,
@@ -8182,7 +8182,7 @@
       "y": 1269,
       "w": 147,
       "h": 147,
-      "nombre": ""
+      "nombre": "Facundo Lebón Mastellone"
     },
     {
       "id": 14,
@@ -8190,7 +8190,7 @@
       "y": 1496,
       "w": 120,
       "h": 120,
-      "nombre": ""
+      "nombre": "Juan Ignacio Fernández"
     },
     {
       "id": 15,
@@ -8198,7 +8198,7 @@
       "y": 1450,
       "w": 122,
       "h": 122,
-      "nombre": ""
+      "nombre": "Lautaro Cerini"
     },
     {
       "id": 16,
@@ -8206,7 +8206,7 @@
       "y": 1744,
       "w": 151,
       "h": 151,
-      "nombre": ""
+      "nombre": "Victoria Pelazza"
     },
     {
       "id": 17,
@@ -8214,7 +8214,7 @@
       "y": 1416,
       "w": 127,
       "h": 127,
-      "nombre": ""
+      "nombre": "Pedro Alduncin"
     },
     {
       "id": 18,
@@ -8222,7 +8222,7 @@
       "y": 1445,
       "w": 128,
       "h": 128,
-      "nombre": ""
+      "nombre": "Santiago Baratta"
     },
     {
       "id": 19,
@@ -8230,7 +8230,7 @@
       "y": 1453,
       "w": 132,
       "h": 132,
-      "nombre": ""
+      "nombre": "Francisco Sanguinetti"
     },
     {
       "id": 20,
@@ -8238,7 +8238,7 @@
       "y": 1451,
       "w": 132,
       "h": 132,
-      "nombre": ""
+      "nombre": "Félix Sojo"
     },
     {
       "id": 21,
@@ -8254,7 +8254,7 @@
       "y": 1338,
       "w": 119,
       "h": 119,
-      "nombre": ""
+      "nombre": "Mariano Narbais"
     },
     {
       "id": 23,
@@ -8262,7 +8262,7 @@
       "y": 1339,
       "w": 125,
       "h": 125,
-      "nombre": ""
+      "nombre": "Agustín Balerdi"
     },
     {
       "id": 24,
@@ -8270,7 +8270,7 @@
       "y": 1332,
       "w": 122,
       "h": 122,
-      "nombre": ""
+      "nombre": "Diego Baldassare"
     },
     {
       "id": 25,
@@ -8278,7 +8278,7 @@
       "y": 1357,
       "w": 115,
       "h": 115,
-      "nombre": ""
+      "nombre": "Manuel Moyano"
     },
     {
       "id": 26,
@@ -8286,7 +8286,7 @@
       "y": 1357,
       "w": 136,
       "h": 136,
-      "nombre": ""
+      "nombre": "Maximiliano Adaro"
     },
     {
       "id": 27,
@@ -8294,7 +8294,7 @@
       "y": 1364,
       "w": 130,
       "h": 130,
-      "nombre": ""
+      "nombre": "Alejo Ramírez Gismondi"
     },
     {
       "id": 28,
@@ -8302,7 +8302,7 @@
       "y": 1489,
       "w": 139,
       "h": 139,
-      "nombre": ""
+      "nombre": "Valentín Fauda Trettel"
     },
     {
       "id": 29,
@@ -8310,7 +8310,7 @@
       "y": 1515,
       "w": 123,
       "h": 123,
-      "nombre": ""
+      "nombre": "Federico Markl"
     },
     {
       "id": 30,
@@ -8318,7 +8318,7 @@
       "y": 1616,
       "w": 153,
       "h": 153,
-      "nombre": ""
+      "nombre": "Agustín Posleman"
     },
     {
       "id": 31,
@@ -8326,7 +8326,7 @@
       "y": 1652,
       "w": 117,
       "h": 117,
-      "nombre": ""
+      "nombre": "Camila Espada"
     },
     {
       "id": 32,
@@ -8334,7 +8334,7 @@
       "y": 1658,
       "w": 149,
       "h": 149,
-      "nombre": ""
+      "nombre": "Facundo Bocalandro"
     },
     {
       "id": 33,
@@ -8342,7 +8342,7 @@
       "y": 1583,
       "w": 138,
       "h": 138,
-      "nombre": ""
+      "nombre": "Fermín Böttcher Arancedo"
     },
     {
       "id": 34,
@@ -8350,7 +8350,7 @@
       "y": 1828,
       "w": 135,
       "h": 135,
-      "nombre": ""
+      "nombre": "Nicole Champagne"
     },
     {
       "id": 35,
@@ -8366,7 +8366,7 @@
       "y": 1380,
       "w": 118,
       "h": 118,
-      "nombre": ""
+      "nombre": "Francisco Poppi"
     },
     {
       "id": 37,
@@ -8374,7 +8374,7 @@
       "y": 1579,
       "w": 114,
       "h": 114,
-      "nombre": ""
+      "nombre": "Malena Braun"
     },
     {
       "id": 38,
@@ -8382,7 +8382,7 @@
       "y": 1593,
       "w": 115,
       "h": 115,
-      "nombre": ""
+      "nombre": "Carolina Radovitzky"
     },
     {
       "id": 39,
@@ -8398,7 +8398,7 @@
       "y": 1597,
       "w": 120,
       "h": 120,
-      "nombre": ""
+      "nombre": "Juana Leymarie"
     },
     {
       "id": 41,
@@ -8406,7 +8406,7 @@
       "y": 1516,
       "w": 138,
       "h": 138,
-      "nombre": ""
+      "nombre": "Manuel García Creus"
     },
     {
       "id": 42,
@@ -8422,7 +8422,7 @@
       "y": 1665,
       "w": 149,
       "h": 149,
-      "nombre": ""
+      "nombre": "Agustín López Lacuara"
     },
     {
       "id": 44,
@@ -8430,7 +8430,7 @@
       "y": 1666,
       "w": 154,
       "h": 154,
-      "nombre": ""
+      "nombre": "Tomás López"
     },
     {
       "id": 45,
@@ -8446,7 +8446,7 @@
       "y": 1681,
       "w": 122,
       "h": 122,
-      "nombre": ""
+      "nombre": "Katia Cammisa"
     },
     {
       "id": 47,
@@ -8454,7 +8454,7 @@
       "y": 1242,
       "w": 132,
       "h": 132,
-      "nombre": ""
+      "nombre": "Mauricio Forani"
     },
     {
       "id": 48,
@@ -8462,7 +8462,7 @@
       "y": 1293,
       "w": 116,
       "h": 116,
-      "nombre": ""
+      "nombre": "Santiago Steverlynck"
     },
     {
       "id": 49,
@@ -8470,7 +8470,7 @@
       "y": 1293,
       "w": 117,
       "h": 117,
-      "nombre": ""
+      "nombre": "Santiago Vassolo"
     },
     {
       "id": 50,
@@ -8478,7 +8478,7 @@
       "y": 1298,
       "w": 95,
       "h": 95,
-      "nombre": ""
+      "nombre": "Francisco Villani"
     },
     {
       "id": 51,
@@ -8486,7 +8486,7 @@
       "y": 1309,
       "w": 119,
       "h": 119,
-      "nombre": ""
+      "nombre": "Lautaro Carrozza"
     },
     {
       "id": 52,
@@ -8494,7 +8494,7 @@
       "y": 1322,
       "w": 110,
       "h": 110,
-      "nombre": ""
+      "nombre": "Daniel Grosso"
     },
     {
       "id": 53,
@@ -8502,7 +8502,7 @@
       "y": 1307,
       "w": 139,
       "h": 139,
-      "nombre": ""
+      "nombre": "Ivan Susnisky"
     },
     {
       "id": 54,
@@ -8510,7 +8510,7 @@
       "y": 1279,
       "w": 114,
       "h": 114,
-      "nombre": ""
+      "nombre": "Khalil Stessens"
     },
     {
       "id": 55,
@@ -8518,7 +8518,7 @@
       "y": 1750,
       "w": 130,
       "h": 130,
-      "nombre": ""
+      "nombre": "María Eugenia Baiona"
     },
     {
       "id": 56,
@@ -8526,7 +8526,7 @@
       "y": 1712,
       "w": 142,
       "h": 142,
-      "nombre": ""
+      "nombre": "Agustín Simone Cao"
     },
     {
       "id": 57,
@@ -8534,7 +8534,7 @@
       "y": 1713,
       "w": 123,
       "h": 123,
-      "nombre": ""
+      "nombre": "Delfina Campins"
     },
     {
       "id": 58,
@@ -8542,7 +8542,7 @@
       "y": 1613,
       "w": 125,
       "h": 125,
-      "nombre": ""
+      "nombre": "Lucas García"
     },
     {
       "id": 59,
@@ -8550,7 +8550,7 @@
       "y": 1735,
       "w": 134,
       "h": 134,
-      "nombre": ""
+      "nombre": "Luciana Arias Duval"
     },
     {
       "id": 60,
@@ -8558,7 +8558,7 @@
       "y": 1330,
       "w": 112,
       "h": 112,
-      "nombre": ""
+      "nombre": "Matías Miodosky"
     },
     {
       "id": 61,
@@ -8566,7 +8566,7 @@
       "y": 1331,
       "w": 118,
       "h": 118,
-      "nombre": ""
+      "nombre": "Pedro Aráoz"
     },
     {
       "id": 62,
@@ -8574,7 +8574,7 @@
       "y": 1733,
       "w": 138,
       "h": 138,
-      "nombre": ""
+      "nombre": "Nicolás Leunda"
     },
     {
       "id": 63,
@@ -8582,7 +8582,7 @@
       "y": 1759,
       "w": 120,
       "h": 120,
-      "nombre": ""
+      "nombre": "Abril Gianzi"
     },
     {
       "id": 64,
@@ -8590,7 +8590,7 @@
       "y": 1752,
       "w": 134,
       "h": 134,
-      "nombre": ""
+      "nombre": "Agustina Lavolpe"
     },
     {
       "id": 65,
@@ -8598,7 +8598,7 @@
       "y": 1766,
       "w": 125,
       "h": 125,
-      "nombre": ""
+      "nombre": "Candelaria Carpinetti"
     },
     {
       "id": 66,
@@ -8632,7 +8632,7 @@
       "y": 1779,
       "w": 76,
       "h": 76,
-      "nombre": ""
+      "nombre": "Rodrigo Venegas Estay"
     },
     {
       "id": 4,
@@ -8640,7 +8640,7 @@
       "y": 1750,
       "w": 80,
       "h": 80,
-      "nombre": ""
+      "nombre": "Bruno Queralt"
     },
     {
       "id": 5,
@@ -8648,7 +8648,7 @@
       "y": 1777,
       "w": 83,
       "h": 83,
-      "nombre": ""
+      "nombre": "Martín Saux"
     },
     {
       "id": 6,
@@ -8656,7 +8656,7 @@
       "y": 1728,
       "w": 70,
       "h": 70,
-      "nombre": ""
+      "nombre": "Manuel Barreiro"
     },
     {
       "id": 7,
@@ -8664,7 +8664,7 @@
       "y": 1729,
       "w": 83,
       "h": 83,
-      "nombre": ""
+      "nombre": "Igor Jovanovich"
     },
     {
       "id": 8,
@@ -8672,7 +8672,7 @@
       "y": 1744,
       "w": 76,
       "h": 76,
-      "nombre": ""
+      "nombre": "Santiago García Mata"
     },
     {
       "id": 9,
@@ -8680,7 +8680,7 @@
       "y": 1751,
       "w": 67,
       "h": 67,
-      "nombre": ""
+      "nombre": "Bautista Bucci"
     },
     {
       "id": 10,
@@ -8688,7 +8688,7 @@
       "y": 1786,
       "w": 84,
       "h": 84,
-      "nombre": ""
+      "nombre": "Santiago Ambrosetti"
     },
     {
       "id": 11,
@@ -8696,7 +8696,7 @@
       "y": 1799,
       "w": 70,
       "h": 70,
-      "nombre": ""
+      "nombre": "Santiago Pacifico"
     },
     {
       "id": 12,
@@ -8704,7 +8704,7 @@
       "y": 1801,
       "w": 77,
       "h": 77,
-      "nombre": ""
+      "nombre": "Manuel Allende"
     },
     {
       "id": 13,
@@ -8712,7 +8712,7 @@
       "y": 1762,
       "w": 66,
       "h": 66,
-      "nombre": ""
+      "nombre": "Felipe Ledesma Padilla"
     },
     {
       "id": 14,
@@ -8720,7 +8720,7 @@
       "y": 1761,
       "w": 65,
       "h": 65,
-      "nombre": ""
+      "nombre": "Tomás Schweizer"
     },
     {
       "id": 15,
@@ -8728,7 +8728,7 @@
       "y": 1748,
       "w": 75,
       "h": 75,
-      "nombre": ""
+      "nombre": "Benjamín Capatti Caballero"
     },
     {
       "id": 16,
@@ -8736,7 +8736,7 @@
       "y": 1756,
       "w": 74,
       "h": 74,
-      "nombre": ""
+      "nombre": "Claudio Pannunzio"
     },
     {
       "id": 17,
@@ -8752,7 +8752,7 @@
       "y": 1764,
       "w": 68,
       "h": 68,
-      "nombre": ""
+      "nombre": "Catalina Mendizabal"
     },
     {
       "id": 19,
@@ -8776,7 +8776,7 @@
       "y": 1773,
       "w": 66,
       "h": 66,
-      "nombre": ""
+      "nombre": "Pedro Fernández López"
     },
     {
       "id": 22,
@@ -8784,7 +8784,7 @@
       "y": 1773,
       "w": 69,
       "h": 69,
-      "nombre": ""
+      "nombre": "Joaquín Vivanco Andaur"
     },
     {
       "id": 23,
@@ -8792,7 +8792,7 @@
       "y": 1773,
       "w": 63,
       "h": 63,
-      "nombre": ""
+      "nombre": "Juan Segundo Del Boca"
     },
     {
       "id": 24,
@@ -8800,7 +8800,7 @@
       "y": 1775,
       "w": 70,
       "h": 70,
-      "nombre": ""
+      "nombre": "Felipe Di Francesca"
     },
     {
       "id": 25,
@@ -8808,7 +8808,7 @@
       "y": 1771,
       "w": 77,
       "h": 77,
-      "nombre": ""
+      "nombre": "Matías Ferron"
     },
     {
       "id": 26,
@@ -8824,7 +8824,7 @@
       "y": 1785,
       "w": 69,
       "h": 69,
-      "nombre": ""
+      "nombre": "Juan Cruz Alí"
     },
     {
       "id": 28,
@@ -8832,7 +8832,7 @@
       "y": 1790,
       "w": 66,
       "h": 66,
-      "nombre": ""
+      "nombre": "Marcos De Aloysio"
     },
     {
       "id": 29,
@@ -8840,7 +8840,7 @@
       "y": 1796,
       "w": 69,
       "h": 69,
-      "nombre": ""
+      "nombre": "Ignacio Pyznar"
     },
     {
       "id": 30,
@@ -8848,7 +8848,7 @@
       "y": 1801,
       "w": 78,
       "h": 78,
-      "nombre": ""
+      "nombre": "Facundo Martínez Gálvez"
     },
     {
       "id": 31,
@@ -8856,7 +8856,7 @@
       "y": 1914,
       "w": 63,
       "h": 63,
-      "nombre": ""
+      "nombre": "Martina Consoli"
     },
     {
       "id": 32,
@@ -8864,7 +8864,7 @@
       "y": 1916,
       "w": 63,
       "h": 63,
-      "nombre": ""
+      "nombre": "Agustina Cruz"
     },
     {
       "id": 33,
@@ -8872,7 +8872,7 @@
       "y": 1913,
       "w": 71,
       "h": 71,
-      "nombre": ""
+      "nombre": "Agustina Abalo"
     },
     {
       "id": 34,
@@ -8880,7 +8880,7 @@
       "y": 1846,
       "w": 80,
       "h": 80,
-      "nombre": ""
+      "nombre": "Nicolás Werner"
     },
     {
       "id": 35,
@@ -8888,7 +8888,7 @@
       "y": 1853,
       "w": 89,
       "h": 89,
-      "nombre": ""
+      "nombre": "Tomás Bruno"
     },
     {
       "id": 36,
@@ -8896,7 +8896,7 @@
       "y": 1865,
       "w": 89,
       "h": 89,
-      "nombre": ""
+      "nombre": "Mariano Grassia"
     },
     {
       "id": 37,
@@ -8904,7 +8904,7 @@
       "y": 1866,
       "w": 74,
       "h": 74,
-      "nombre": ""
+      "nombre": "Ignacio González"
     },
     {
       "id": 38,
@@ -8912,7 +8912,7 @@
       "y": 1826,
       "w": 67,
       "h": 67,
-      "nombre": ""
+      "nombre": "Jerónimo Valdés"
     },
     {
       "id": 39,
@@ -8920,7 +8920,7 @@
       "y": 1826,
       "w": 63,
       "h": 63,
-      "nombre": ""
+      "nombre": "Florencia Froschauer"
     },
     {
       "id": 40,
@@ -8928,7 +8928,7 @@
       "y": 1836,
       "w": 72,
       "h": 72,
-      "nombre": ""
+      "nombre": "Jaime Uranga"
     },
     {
       "id": 41,
@@ -8936,7 +8936,7 @@
       "y": 1836,
       "w": 75,
       "h": 75,
-      "nombre": ""
+      "nombre": "Angeles Paz Ibarguren"
     },
     {
       "id": 42,
@@ -8952,7 +8952,7 @@
       "y": 1847,
       "w": 65,
       "h": 65,
-      "nombre": ""
+      "nombre": "Francesca Pierazzoli"
     },
     {
       "id": 44,
@@ -8960,7 +8960,7 @@
       "y": 1852,
       "w": 76,
       "h": 76,
-      "nombre": ""
+      "nombre": "Juana Ferrario Rodríguez"
     },
     {
       "id": 45,
@@ -8968,7 +8968,7 @@
       "y": 1850,
       "w": 77,
       "h": 77,
-      "nombre": ""
+      "nombre": "Facundo Rivas"
     },
     {
       "id": 46,
@@ -8976,7 +8976,7 @@
       "y": 1956,
       "w": 66,
       "h": 66,
-      "nombre": ""
+      "nombre": "Nicole Fox"
     },
     {
       "id": 47,
@@ -8984,7 +8984,7 @@
       "y": 1885,
       "w": 73,
       "h": 73,
-      "nombre": ""
+      "nombre": "Miklos Döry Fernández Candia"
     },
     {
       "id": 48,
@@ -8992,7 +8992,7 @@
       "y": 1881,
       "w": 79,
       "h": 79,
-      "nombre": ""
+      "nombre": "Tomás Berretta"
     },
     {
       "id": 49,
@@ -9000,7 +9000,7 @@
       "y": 1882,
       "w": 87,
       "h": 87,
-      "nombre": ""
+      "nombre": "Agustín Von Staszewski"
     },
     {
       "id": 50,
@@ -9008,7 +9008,7 @@
       "y": 1889,
       "w": 74,
       "h": 74,
-      "nombre": ""
+      "nombre": "Julia Rodríguez Van Rhijn"
     },
     {
       "id": 51,
@@ -9016,7 +9016,7 @@
       "y": 1890,
       "w": 77,
       "h": 77,
-      "nombre": ""
+      "nombre": "Mateo Daireaux"
     },
     {
       "id": 52,
@@ -9024,7 +9024,7 @@
       "y": 1889,
       "w": 89,
       "h": 89,
-      "nombre": ""
+      "nombre": "Matías Gayo"
     },
     {
       "id": 53,
@@ -9032,7 +9032,7 @@
       "y": 1903,
       "w": 81,
       "h": 81,
-      "nombre": ""
+      "nombre": "Bahía Elverdin"
     },
     {
       "id": 54,
@@ -9040,7 +9040,7 @@
       "y": 1865,
       "w": 69,
       "h": 69,
-      "nombre": ""
+      "nombre": "María Laura Soto Leal"
     },
     {
       "id": 55,
@@ -9048,7 +9048,7 @@
       "y": 1878,
       "w": 67,
       "h": 67,
-      "nombre": ""
+      "nombre": "María Agostina Zanutto"
     },
     {
       "id": 56,
@@ -9056,7 +9056,7 @@
       "y": 1875,
       "w": 70,
       "h": 70,
-      "nombre": ""
+      "nombre": "Germán Buchmüller"
     },
     {
       "id": 57,
@@ -9064,7 +9064,7 @@
       "y": 1880,
       "w": 65,
       "h": 65,
-      "nombre": ""
+      "nombre": "Eugenia García Creus"
     },
     {
       "id": 58,
@@ -9072,7 +9072,7 @@
       "y": 1880,
       "w": 68,
       "h": 68,
-      "nombre": ""
+      "nombre": "Bautista Rivarola Labarthé"
     },
     {
       "id": 59,
@@ -9080,7 +9080,7 @@
       "y": 1896,
       "w": 67,
       "h": 67,
-      "nombre": ""
+      "nombre": "Clara Lanus"
     },
     {
       "id": 60,
@@ -9088,7 +9088,7 @@
       "y": 1900,
       "w": 65,
       "h": 65,
-      "nombre": ""
+      "nombre": "Sofía Fox"
     },
     {
       "id": 61,
@@ -9096,7 +9096,7 @@
       "y": 1902,
       "w": 67,
       "h": 67,
-      "nombre": ""
+      "nombre": "Valentina Rivas"
     },
     {
       "id": 62,
@@ -9104,7 +9104,7 @@
       "y": 1902,
       "w": 60,
       "h": 60,
-      "nombre": ""
+      "nombre": "Victoria Dantur"
     },
     {
       "id": 63,
@@ -9112,7 +9112,7 @@
       "y": 1902,
       "w": 68,
       "h": 68,
-      "nombre": ""
+      "nombre": "Manuela Masjoan"
     },
     {
       "id": 64,
@@ -9120,7 +9120,7 @@
       "y": 1890,
       "w": 64,
       "h": 64,
-      "nombre": ""
+      "nombre": "Sol Zwobada"
     }
   ]
 }
