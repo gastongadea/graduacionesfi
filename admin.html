@@ -238,12 +238,14 @@
             content.style.display = 'none';
             
             try {
-                const response = await fetch('stats.json');
-                if (!response.ok) {
-                    throw new Error('No se pudo cargar las estadísticas');
+                // Cargar desde localStorage en lugar de un archivo
+                const savedStats = localStorage.getItem('graduacionesStats');
+                let stats = {};
+                
+                if (savedStats) {
+                    stats = JSON.parse(savedStats);
                 }
                 
-                const stats = await response.json();
                 displayStats(stats);
                 
                 loading.style.display = 'none';
