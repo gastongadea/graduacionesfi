@@ -3,11 +3,7 @@
   "name": "graduacionesfi",
   "builds": [
     {
-      "src": "index.html",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "app.js",
+      "src": "*.html",
       "use": "@vercel/static"
     },
     {
@@ -15,28 +11,37 @@
       "use": "@vercel/static"
     },
     {
-      "src": "faces-numbered.json",
+      "src": "*.js",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "*.json",
       "use": "@vercel/static"
     }
   ],
-  "rewrites": [
+  "routes": [
     {
-      "source": "/",
-      "destination": "/index.html"
+      "src": "/",
+      "dest": "/index.html"
     },
     {
-      "source": "/app.js",
-      "destination": "/app.js"
+      "src": "/admin",
+      "dest": "/admin.html"
     },
     {
-      "source": "/public/(.*)",
-      "destination": "/public/$1"
+      "src": "/public/(.*)",
+      "dest": "/public/$1"
     },
     {
-      "source": "/faces-numbered.json",
-      "destination": "/faces-numbered.json"
+      "src": "/(.*)",
+      "dest": "/$1"
     }
   ],
+  "functions": {
+    "api/save-stats.js": {
+      "runtime": "nodejs18.x"
+    }
+  },
   "headers": [
     {
       "source": "/(.*)",
