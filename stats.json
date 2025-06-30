@@ -1,14 +1,30 @@
 {
   "2000.jpg": {
-    "clicks": 5,
-    "lastClick": "2025-01-15T10:30:00.000Z"
+    "clicks": 1,
+    "lastClick": "2025-06-30T01:30:24.960Z"
   },
   "2001.jpg": {
-    "clicks": 3,
-    "lastClick": "2025-01-15T11:45:00.000Z"
+    "clicks": 1,
+    "lastClick": "2025-06-30T01:30:28.829Z"
+  },
+  "2004.jpg": {
+    "clicks": 1,
+    "lastClick": "2025-06-30T01:30:31.261Z"
   },
   "2002.jpg": {
-    "clicks": 7,
-    "lastClick": "2025-01-15T12:15:00.000Z"
+    "clicks": 1,
+    "lastClick": "2025-06-30T01:30:44.666Z"
+  },
+  "2009.jpg": {
+    "clicks": 2,
+    "lastClick": "2025-06-30T01:31:03.125Z"
+  },
+  "2008.jpg": {
+    "clicks": 1,
+    "lastClick": "2025-06-30T01:31:04.362Z"
+  },
+  "2010.jpg": {
+    "clicks": 1,
+    "lastClick": "2025-06-30T01:31:06.235Z"
   }
 }
