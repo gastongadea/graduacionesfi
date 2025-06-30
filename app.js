@@ -38,29 +38,57 @@ class GraduacionesApp {
 
     async loadStats() {
         try {
-            // En Vercel (sitio estático), cargar desde localStorage
+            // Intentar cargar desde el servidor primero
+            const response = await fetch('/stats.json');
+            if (response.ok) {
+                this.stats = await response.json();
+                console.log('📊 Estadísticas cargadas desde el servidor');
+            } else {
+                // Si no hay archivo en el servidor, usar localStorage como fallback
+                const savedStats = localStorage.getItem('graduacionesStats');
+                if (savedStats) {
+                    this.stats = JSON.parse(savedStats);
+                    console.log('📊 Estadísticas cargadas desde localStorage (fallback)');
+                } else {
+                    this.stats = {};
+                    console.log('📊 Iniciando con estadísticas vacías');
+                }
+            }
+        } catch (error) {
+            console.log('Error al cargar estadísticas del servidor, usando localStorage:', error);
+            // Fallback a localStorage
             const savedStats = localStorage.getItem('graduacionesStats');
             if (savedStats) {
                 this.stats = JSON.parse(savedStats);
             } else {
                 this.stats = {};
             }
-        } catch (error) {
-            console.log('No se encontraron estadísticas guardadas, iniciando con estadísticas vacías');
-            this.stats = {};
         }
     }
 
     async saveStats() {
         try {
-            // En Vercel (sitio estático), solo loggeamos las estadísticas
-            console.log('📊 Estadísticas actualizadas:', JSON.stringify(this.stats, null, 2));
+            // Guardar en el servidor
+            const response = await fetch('/save-stats', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(this.stats)
+            });
             
-            // Opcional: guardar en localStorage para persistencia local
-            localStorage.setItem('graduacionesStats', JSON.stringify(this.stats));
+            if (response.ok) {
+                console.log('📊 Estadísticas guardadas en el servidor');
+            } else {
+                console.log('Error al guardar en el servidor, usando localStorage como fallback');
+                // Fallback a localStorage
+                localStorage.setItem('graduacionesStats', JSON.stringify(this.stats));
+            }
             
         } catch (error) {
-            console.log('Error al guardar estadísticas:', error);
+            console.log('Error al guardar estadísticas en el servidor, usando localStorage:', error);
+            // Fallback a localStorage
+            localStorage.setItem('graduacionesStats', JSON.stringify(this.stats));
         }
     }
 

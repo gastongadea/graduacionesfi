@@ -238,12 +238,23 @@
             content.style.display = 'none';
             
             try {
-                // Cargar desde localStorage en lugar de un archivo
-                const savedStats = localStorage.getItem('graduacionesStats');
+                // Intentar cargar desde el servidor primero
+                const response = await fetch('/stats.json');
                 let stats = {};
                 
-                if (savedStats) {
-                    stats = JSON.parse(savedStats);
+                if (response.ok) {
+                    stats = await response.json();
+                    console.log('📊 Estadísticas cargadas desde el servidor');
+                } else {
+                    // Si no hay archivo en el servidor, usar localStorage como fallback
+                    const savedStats = localStorage.getItem('graduacionesStats');
+                    if (savedStats) {
+                        stats = JSON.parse(savedStats);
+                        console.log('📊 Estadísticas cargadas desde localStorage (fallback)');
+                    } else {
+                        stats = {};
+                        console.log('📊 No se encontraron estadísticas');
+                    }
                 }
                 
                 displayStats(stats);
@@ -252,9 +263,24 @@
                 content.style.display = 'block';
                 
             } catch (err) {
-                console.error('Error:', err);
-                loading.style.display = 'none';
-                error.style.display = 'block';
+                console.error('Error al cargar estadísticas:', err);
+                // Fallback a localStorage
+                try {
+                    const savedStats = localStorage.getItem('graduacionesStats');
+                    let stats = {};
+                    
+                    if (savedStats) {
+                        stats = JSON.parse(savedStats);
+                    }
+                    
+                    displayStats(stats);
+                    loading.style.display = 'none';
+                    content.style.display = 'block';
+                } catch (fallbackErr) {
+                    console.error('Error en fallback:', fallbackErr);
+                    loading.style.display = 'none';
+                    error.style.display = 'block';
+                }
             }
         }
 
