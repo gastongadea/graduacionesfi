@@ -768,3 +768,81 @@
 2024	7	Igor Jovanovich
 2024	5	Martín Saux
 2024	10	Santiago Ambrosetti
+2025	1	Cristian Chaparro
+2025	2	María Emilia Mignone
+2025	3	Maria Justina Galarce
+2025	5	Máximo Francisco Ritondale
+2025	6	Juan Segundo Ignacio De Cia
+2025	7	Tomas Maria Becerra
+2025	8	Ignacio Gabriel Ferrari
+2025	9	Matías Alejandro Butti
+2025	10	Bautista Ticinese
+2025	11	Juan Pablo Senmartin
+2025	12	Ricardo David López Bonaguro
+2025	13	Donald Ian Mc Intyre
+2025	14	Lucas Martin Canal
+2025	15	Máximo Herbin
+2025	16	Ignacio Chalub
+2025	17	Félix Macadam
+2025	18	Bautista Prea
+2025	19	Mateo Valle Durán
+2025	20	Facundo Dominguez Mur
+2025	21	Mateo Rabaglino Whitechurch
+2025	22	Federico Pochat
+2025	23	Joaquín Rodrigo Vidal
+2025	24	Valentín Biaggio
+2025	25	Matías Boracchia
+2025	26	Celina Lourdes Cousido
+2025	27	María Cristina Priore
+2025	28	Magdalena Leeson
+2025	29	Sol María Zunino
+2025	30	Alfonsina Fauda Trettel
+2025	31	Navila Lourdes Cordoba
+2025	32	Agustín Nicolás Titotto Puglioli
+2025	33	Matías Leonardo Coulougian
+2025	34	Clara Schiappapietra
+2025	35	Paula Candela Ciocca Amella
+2025	36	Tomas Claramunt
+2025	37	Fernando Guastavino
+2025	38	Pablo Federico Manson
+2025	39	Santiago Capart
+2025	40	Jerónimo Nazareno Damonte
+2025	41	Zoe Zuker
+2025	42	Nicolás Agustin Gamboa
+2025	43	Agustina Belén Descalzo
+2025	44	Joaquin Iannuzzi
+2025	45	Marcos Villa Larroudet
+2025	46	Ignacio Breccia
+2025	47	Santiago Encina
+2025	48	Numa Facundo Leone
+2025	49	Agustín Battaglia
+2025	50	Juan Cruz Estevez
+2025	51	Alejo Martín Demitropulos Macchi
+2025	52	Guido Molaro
+2025	54	Ignacio Etiennot
+2025	55	Juan Monasterio
+2025	56	Nicolás Calvente
+2025	57	Marcos Hernán Medina
+2025	58	Segundo Marcaida
+2025	59	Julieta Paz Szuldman
+2025	60	Agustina Verschoor
+2025	61	Thiago Bechka
+2025	62	Guillermo Eduardo Pelazza
+2025	63	Francisco Preuss
+2025	64	Maximiliano Palmero Piezzi
+2025	65	Timoteo Sanchez Varsallona
+2025	66	Camila Contestabile Monti
+2025	67	Rodrigo Marchese
+2025	68	Justina Maria Genes
+2025	69	María Sofía Belagardi
+2025	70	Martina Llorens
+2025	71	Juan Cruz Conca Robles
+2025	72	Lucas Barbeito
+2025	74	Tomás Sebastián Vila
+2025	75	Carola Linck
+2025	76	Agustina Villar
+2025	77	Camila Cacheiro
+2025	78	Lucía Khabie
+2025	80	Rosario Maria Ortega
+2025	81	Agustín Daniel Villarreal
+2025	82	Sofía Tartara

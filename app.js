@@ -92,9 +92,17 @@ class GraduacionesApp {
         }
     }
 
+    getValidPhotos() {
+        // Filtrar solo fotos con formato YYYY.jpg (1999-2025)
+        const yearPattern = /^(1999|200[0-9]|201[0-9]|202[0-5])\.jpg$/i;
+        return Object.keys(this.facesData)
+            .filter(photo => yearPattern.test(photo))
+            .sort(); // Ordenar por año
+    }
+
     displayGallery() {
         const gallery = document.getElementById('gallery');
-        const photos = Object.keys(this.facesData).sort(); // Ordenar por año
+        const photos = this.getValidPhotos();
         
         photos.forEach(photo => {
             const photoContainer = this.createPhotoContainer(photo);
@@ -317,6 +325,13 @@ class GraduacionesApp {
     }
 
     openModal(photoName) {
+        // Validar que la foto es válida (formato YYYY.jpg)
+        const yearPattern = /^(1999|200[0-9]|201[0-9]|202[0-5])\.jpg$/i;
+        if (!yearPattern.test(photoName) || !this.facesData[photoName]) {
+            console.error(`Foto inválida o no encontrada: ${photoName}`);
+            return;
+        }
+        
         // Registrar el click
         this.recordPhotoClick(photoName);
         
@@ -352,7 +367,7 @@ class GraduacionesApp {
     }
 
     updateNavigationButtons() {
-        const photos = Object.keys(this.facesData).sort();
+        const photos = this.getValidPhotos();
         const currentIndex = photos.indexOf(this.currentModalPhoto);
         
         const prevButton = document.querySelector('.nav-prev');
@@ -463,7 +478,7 @@ class GraduacionesApp {
     previousPhoto() {
         if (!this.currentModalPhoto) return;
         
-        const photos = Object.keys(this.facesData).sort();
+        const photos = this.getValidPhotos();
         const currentIndex = photos.indexOf(this.currentModalPhoto);
         
         if (currentIndex > 0) {
@@ -475,7 +490,7 @@ class GraduacionesApp {
     nextPhoto() {
         if (!this.currentModalPhoto) return;
         
-        const photos = Object.keys(this.facesData).sort();
+        const photos = this.getValidPhotos();
         const currentIndex = photos.indexOf(this.currentModalPhoto);
         
         if (currentIndex < photos.length - 1) {
