@@ -1,0 +1,554 @@
+INFORMACIÓN DE ROSTROS DETECTADOS - 2025
+==================================================
+
+Archivo procesado: 2025.jpg
+Total de rostros detectados: 73
+
+DETALLES POR ROSTRO:
+------------------------------
+Rostro #1:
+  Posición X: 943 píxeles
+  Posición Y: 712 píxeles
+  Ancho: 38 píxeles
+  Alto: 38 píxeles
+  Nombre: Lucas Canal
+
+Rostro #2:
+  Posición X: 1595 píxeles
+  Posición Y: 715 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Máximo Herbin
+
+Rostro #3:
+  Posición X: 186 píxeles
+  Posición Y: 718 píxeles
+  Ancho: 35 píxeles
+  Alto: 35 píxeles
+  Nombre: Bautista Prea
+
+Rostro #4:
+  Posición X: 572 píxeles
+  Posición Y: 718 píxeles
+  Ancho: 35 píxeles
+  Alto: 35 píxeles
+  Nombre: Ignacio Chalub
+
+Rostro #5:
+  Posición X: 1249 píxeles
+  Posición Y: 717 píxeles
+  Ancho: 37 píxeles
+  Alto: 37 píxeles
+  Nombre: Mateo Rabaglino Whitechurch
+
+Rostro #6:
+  Posición X: 512 píxeles
+  Posición Y: 718 píxeles
+  Ancho: 38 píxeles
+  Alto: 38 píxeles
+  Nombre: Mateo Valle Durán
+
+Rostro #7:
+  Posición X: 896 píxeles
+  Posición Y: 721 píxeles
+  Ancho: 38 píxeles
+  Alto: 38 píxeles
+  Nombre: Valentín Biaggio
+
+Rostro #8:
+  Posición X: 1071 píxeles
+  Posición Y: 719 píxeles
+  Ancho: 35 píxeles
+  Alto: 35 píxeles
+  Nombre: Facundo Dominguez Mur
+
+Rostro #9:
+  Posición X: 392 píxeles
+  Posición Y: 724 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Federico Pochat
+
+Rostro #10:
+  Posición X: 690 píxeles
+  Posición Y: 724 píxeles
+  Ancho: 35 píxeles
+  Alto: 35 píxeles
+  Nombre: Joaquín Vidal
+
+Rostro #11:
+  Posición X: 1038 píxeles
+  Posición Y: 723 píxeles
+  Ancho: 35 píxeles
+  Alto: 35 píxeles
+  Nombre: Máximo Ritondale
+
+Rostro #12:
+  Posición X: 1332 píxeles
+  Posición Y: 723 píxeles
+  Ancho: 35 píxeles
+  Alto: 35 píxeles
+  Nombre: Tomas Becerra
+
+Rostro #121:
+  Posición X: 1365 píxeles
+  Posición Y: 723 píxeles
+  Ancho: 35 píxeles
+  Alto: 35 píxeles
+  Nombre: Cristian Chaparro
+
+Rostro #13:
+  Posición X: 1512 píxeles
+  Posición Y: 724 píxeles
+  Ancho: 35 píxeles
+  Alto: 35 píxeles
+  Nombre: Matías Boracchia
+
+Rostro #131:
+  Posición X: 1477 píxeles
+  Posición Y: 727 píxeles
+  Ancho: 35 píxeles
+  Alto: 38 píxeles
+  Nombre: Ignacio Etiennot
+
+Rostro #14:
+  Posición X: 658 píxeles
+  Posición Y: 725 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Santiago Encina
+
+Rostro #15:
+  Posición X: 1797 píxeles
+  Posición Y: 725 píxeles
+  Ancho: 37 píxeles
+  Alto: 37 píxeles
+  Nombre: Numa Leone
+
+Rostro #16:
+  Posición X: 1890 píxeles
+  Posición Y: 726 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Juan Cruz Estevez
+
+Rostro #17:
+  Posición X: 314 píxeles
+  Posición Y: 727 píxeles
+  Ancho: 37 píxeles
+  Alto: 37 píxeles
+  Nombre: Ignacio Ferrari
+
+Rostro #18:
+  Posición X: 425 píxeles
+  Posición Y: 727 píxeles
+  Ancho: 37 píxeles
+  Alto: 37 píxeles
+  Nombre: Alejo Demitropulos
+
+Rostro #19:
+  Posición X: 474 píxeles
+  Posición Y: 728 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Guido Molaro
+
+Rostro #20:
+  Posición X: 853 píxeles
+  Posición Y: 728 píxeles
+  Ancho: 37 píxeles
+  Alto: 37 píxeles
+  Nombre: Matías Butti
+
+Rostro #21:
+  Posición X: 985 píxeles
+  Posición Y: 728 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Agustín Battaglia
+
+Rostro #22:
+  Posición X: 1695 píxeles
+  Posición Y: 730 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Juan Pablo Senmartin
+
+Rostro #23:
+  Posición X: 613 píxeles
+  Posición Y: 732 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Bautista Ticinese
+
+Rostro #24:
+  Posición X: 1391 píxeles
+  Posición Y: 756 píxeles
+  Ancho: 38 píxeles
+  Alto: 38 píxeles
+  Nombre: Fernando Guastavino
+
+Rostro #25:
+  Posición X: 1895 píxeles
+  Posición Y: 759 píxeles
+  Ancho: 42 píxeles
+  Alto: 42 píxeles
+  Nombre: Pablo Manson
+
+Rostro #26:
+  Posición X: 477 píxeles
+  Posición Y: 767 píxeles
+  Ancho: 37 píxeles
+  Alto: 37 píxeles
+  Nombre: Nicolás Gamboa
+
+Rostro #27:
+  Posición X: 388 píxeles
+  Posición Y: 769 píxeles
+  Ancho: 38 píxeles
+  Alto: 38 píxeles
+  Nombre: Marcos Villa Larroudet
+
+Rostro #28:
+  Posición X: 923 píxeles
+  Posición Y: 769 píxeles
+  Ancho: 41 píxeles
+  Alto: 41 píxeles
+  Nombre: Joaquin Iannuzzi
+
+Rostro #29:
+  Posición X: 1299 píxeles
+  Posición Y: 850 píxeles
+  Ancho: 38 píxeles
+  Alto: 38 píxeles
+  Nombre: Rosario Ortega
+
+Rostro #30:
+  Posición X: 367 píxeles
+  Posición Y: 837 píxeles
+  Ancho: 47 píxeles
+  Alto: 47 píxeles
+  Nombre: Lucía Khabie
+
+Rostro #31:
+  Posición X: 855 píxeles
+  Posición Y: 840 píxeles
+  Ancho: 42 píxeles
+  Alto: 42 píxeles
+  Nombre: Camila Cacheiro
+
+Rostro #32:
+  Posición X: 826 píxeles
+  Posición Y: 733 píxeles
+  Ancho: 34 píxeles
+  Alto: 34 píxeles
+  Nombre: Emilia Mignone
+
+Rostro #33:
+  Posición X: 750 píxeles
+  Posición Y: 737 píxeles
+  Ancho: 35 píxeles
+  Alto: 35 píxeles
+  Nombre: Justina Galarce
+
+Rostro #331:
+  Posición X: 785 píxeles
+  Posición Y: 717 píxeles
+  Ancho: 35 píxeles
+  Alto: 35 píxeles
+  Nombre: Félix Macadam
+
+Rostro #34:
+  Posición X: 1748 píxeles
+  Posición Y: 737 píxeles
+  Ancho: 38 píxeles
+  Alto: 38 píxeles
+  Nombre: Ricardo López Bonaguro
+
+Rostro #35:
+  Posición X: 356 píxeles
+  Posición Y: 738 píxeles
+  Ancho: 37 píxeles
+  Alto: 37 píxeles
+  Nombre: Guillermo Eduardo Pelazza
+
+Rostro #36:
+  Posición X: 1426 píxeles
+  Posición Y: 740 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Donald Mc Intyre
+
+Rostro #37:
+  Posición X: 1659 píxeles
+  Posición Y: 735 píxeles
+  Ancho: 41 píxeles
+  Alto: 41 píxeles
+  Nombre: Juan Monasterio
+
+Rostro #38:
+  Posición X: 549 píxeles
+  Posición Y: 742 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Segundo Marcaida
+
+Rostro #39:
+  Posición X: 1100 píxeles
+  Posición Y: 739 píxeles
+  Ancho: 40 píxeles
+  Alto: 40 píxeles
+  Nombre: Marcos Medina
+
+Rostro #40:
+  Posición X: 230 píxeles
+  Posición Y: 742 píxeles
+  Ancho: 38 píxeles
+  Alto: 38 píxeles
+  Nombre: Francisco Preuss
+
+Rostro #41:
+  Posición X: 1567 píxeles
+  Posición Y: 746 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Maximiliano Palmero
+
+Rostro #42:
+  Posición X: 1168 píxeles
+  Posición Y: 754 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Candela Ciocca
+
+Rostro #421:
+  Posición X: 1168 píxeles
+  Posición Y: 722 píxeles
+  Ancho: 36 píxeles
+  Alto: 32 píxeles
+  Nombre: Juan De Cia
+
+Rostro #43:
+  Posición X: 1310 píxeles
+  Posición Y: 758 píxeles
+  Ancho: 35 píxeles
+  Alto: 35 píxeles
+  Nombre: Tomas Claramunt
+
+Rostro #44:
+  Posición X: 164 píxeles
+  Posición Y: 783 píxeles
+  Ancho: 47 píxeles
+  Alto: 47 píxeles
+  Nombre: Nicolás Calvente
+
+Rostro #45:
+  Posición X: 1339 píxeles
+  Posición Y: 788 píxeles
+  Ancho: 40 píxeles
+  Alto: 40 píxeles
+  Nombre: Sol Zunino
+
+Rostro #46:
+  Posición X: 1797 píxeles
+  Posición Y: 787 píxeles
+  Ancho: 40 píxeles
+  Alto: 40 píxeles
+  Nombre: Alfonsina Trettel
+
+Rostro #47:
+  Posición X: 1610 píxeles
+  Posición Y: 788 píxeles
+  Ancho: 44 píxeles
+  Alto: 44 píxeles
+  Nombre: Agustín Titotto
+
+Rostro #48:
+  Posición X: 1703 píxeles
+  Posición Y: 792 píxeles
+  Ancho: 38 píxeles
+  Alto: 38 píxeles
+  Nombre: Matías Coulougian
+
+Rostro #49:
+  Posición X: 1203 píxeles
+  Posición Y: 798 píxeles
+  Ancho: 37 píxeles
+  Alto: 37 píxeles
+  Nombre: Clara Schiappapietra
+
+Rostro #50:
+  Posición X: 755 píxeles
+  Posición Y: 808 píxeles
+  Ancho: 40 píxeles
+  Alto: 40 píxeles
+  Nombre: Agustín Villarreal
+
+Rostro #51:
+  Posición X: 1872 píxeles
+  Posición Y: 808 píxeles
+  Ancho: 41 píxeles
+  Alto: 41 píxeles
+  Nombre: Tomás Vila
+
+Rostro #52:
+  Posición X: 275 píxeles
+  Posición Y: 813 píxeles
+  Ancho: 41 píxeles
+  Alto: 41 píxeles
+  Nombre: Agustina Verschoor
+
+Rostro #53:
+  Posición X: 450 píxeles
+  Posición Y: 810 píxeles
+  Ancho: 46 píxeles
+  Alto: 46 píxeles
+  Nombre: Sofía Tartara
+
+Rostro #54:
+  Posición X: 1760 píxeles
+  Posición Y: 812 píxeles
+  Ancho: 46 píxeles
+  Alto: 46 píxeles
+  Nombre: Carola Linck
+
+Rostro #55:
+  Posición X: 283 píxeles
+  Posición Y: 762 píxeles
+  Ancho: 37 píxeles
+  Alto: 37 píxeles
+  Nombre: Santiago Capart
+
+Rostro #551:
+  Posición X: 180 píxeles
+  Posición Y: 750 píxeles
+  Ancho: 37 píxeles
+  Alto: 37 píxeles
+  Nombre: Ignacio Breccia
+
+Rostro #56:
+  Posición X: 1240 píxeles
+  Posición Y: 766 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Zoe Zuker
+
+Rostro #57:
+  Posición X: 576 píxeles
+  Posición Y: 769 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Agustina Descalzo
+
+Rostro #58:
+  Posición X: 816 píxeles
+  Posición Y: 767 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Jerónimo Damonte
+
+Rostro #59:
+  Posición X: 704 píxeles
+  Posición Y: 773 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Thiago Bechka
+
+Rostro #60:
+  Posición X: 1024 píxeles
+  Posición Y: 785 píxeles
+  Ancho: 36 píxeles
+  Alto: 36 píxeles
+  Nombre: Celina Cousido
+
+Rostro #61:
+  Posición X: 1448 píxeles
+  Posición Y: 784 píxeles
+  Ancho: 37 píxeles
+  Alto: 37 píxeles
+  Nombre: María Priore
+
+Rostro #62:
+  Posición X: 1529 píxeles
+  Posición Y: 784 píxeles
+  Ancho: 38 píxeles
+  Alto: 38 píxeles
+  Nombre: Magdalena Leeson
+
+Rostro #63:
+  Posición X: 638 píxeles
+  Posición Y: 817 píxeles
+  Ancho: 44 píxeles
+  Alto: 44 píxeles
+  Nombre: Camila Contestabile
+
+Rostro #64:
+  Posición X: 558 píxeles
+  Posición Y: 819 píxeles
+  Ancho: 40 píxeles
+  Alto: 40 píxeles
+  Nombre: Timoteo Sanchez Varsallona
+
+Rostro #65:
+  Posición X: 966 píxeles
+  Posición Y: 821 píxeles
+  Ancho: 42 píxeles
+  Alto: 42 píxeles
+  Nombre: Rodrigo Marchese
+
+Rostro #66:
+  Posición X: 1492 píxeles
+  Posición Y: 819 píxeles
+  Ancho: 39 píxeles
+  Alto: 39 píxeles
+  Nombre: Justina Genes
+
+Rostro #67:
+  Posición X: 1663 píxeles
+  Posición Y: 825 píxeles
+  Ancho: 40 píxeles
+  Alto: 40 píxeles
+  Nombre: Sofía Belagardi
+
+Rostro #68:
+  Posición X: 1181 píxeles
+  Posición Y: 831 píxeles
+  Ancho: 39 píxeles
+  Alto: 39 píxeles
+  Nombre: Martina Llorens
+
+Rostro #69:
+  Posición X: 1396 píxeles
+  Posición Y: 831 píxeles
+  Ancho: 39 píxeles
+  Alto: 39 píxeles
+  Nombre: Juan Cruz Conca Robles
+
+Rostro #70:
+  Posición X: 1079 píxeles
+  Posición Y: 834 píxeles
+  Ancho: 39 píxeles
+  Alto: 39 píxeles
+  Nombre: Lucas Barbeito
+
+Rostro #71:
+  Posición X: 1573 píxeles
+  Posición Y: 837 píxeles
+  Ancho: 39 píxeles
+  Alto: 39 píxeles
+  Nombre: Agustina Villar
+
+Rostro #72:
+  Posición X: 1127 píxeles
+  Posición Y: 793 píxeles
+  Ancho: 35 píxeles
+  Alto: 35 píxeles
+  Nombre: Navila Cordoba
+
+Rostro #73:
+  Posición X: 1281 píxeles
+  Posición Y: 797 píxeles
+  Ancho: 38 píxeles
+  Alto: 38 píxeles
+  Nombre: Julieta Szuldman
+
