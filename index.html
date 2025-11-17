@@ -436,6 +436,39 @@
             background: rgba(255, 255, 255, 0.2);
             transform: scale(1);
         }
+
+        .zoom-btn.active {
+            background: rgba(255, 255, 255, 0.4);
+            color: #222;
+        }
+
+        .magnifier-lens {
+            position: absolute;
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            pointer-events: none;
+            border: 3px solid rgba(255, 255, 255, 0.8);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+            background-repeat: no-repeat;
+            display: none;
+            z-index: 2003;
+        }
+
+        .magnifier-tooltip {
+            position: absolute;
+            transform: translate(-50%, -120%);
+            background: rgba(0, 0, 0, 0.85);
+            color: #fff;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            white-space: nowrap;
+            pointer-events: none;
+            display: none;
+            z-index: 2004;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+        }
     </style>
 </head>
 <body>
@@ -485,6 +518,7 @@
             <div class="zoom-controls">
                 <button class="zoom-btn" onclick="app.zoomOut()" title="Alejar">−</button>
                 <button class="zoom-btn" onclick="app.resetZoom()" title="Restablecer zoom">⟲</button>
+                <button class="zoom-btn magnifier-toggle" onclick="app.toggleMagnifier()" title="Lupa">🔍</button>
                 <button class="zoom-btn" onclick="app.zoomIn()" title="Acercar">+</button>
             </div>
         </div>
