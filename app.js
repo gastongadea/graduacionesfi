@@ -7,6 +7,13 @@ class GraduacionesApp {
         this.dragStart = { x: 0, y: 0 };
         this.imagePosition = { x: 0, y: 0 };
         this.stats = {};
+        this.isMagnifierActive = false;
+        this.magnifierLens = null;
+        this.magnifierTooltip = null;
+        this.magnifierZoom = 3;
+        this.boundMagnifierMove = this.handleMagnifierMove.bind(this);
+        this.boundMagnifierLeave = this.handleMagnifierLeave.bind(this);
+        this.magnifierListenersAttached = false;
         this.init();
     }
 
@@ -335,6 +342,7 @@ class GraduacionesApp {
         // Registrar el click
         this.recordPhotoClick(photoName);
         
+        this.deactivateMagnifier();
         this.currentModalPhoto = photoName;
         this.resetZoom(); // Resetear zoom al abrir nueva foto
         const year = photoName.replace(/\.[^/.]+$/, "");
@@ -473,6 +481,7 @@ class GraduacionesApp {
         document.body.style.overflow = 'auto'; // Restaurar scroll
         this.currentModalPhoto = null;
         this.resetZoom();
+        this.deactivateMagnifier();
     }
 
     previousPhoto() {
@@ -542,6 +551,9 @@ class GraduacionesApp {
         const faceBoxes = document.querySelectorAll('.modal-face-box');
         
         if (modalImage) {
+            if (this.isMagnifierActive && this.zoomLevel !== 1) {
+                this.deactivateMagnifier();
+            }
             const transform = `translate(${this.imagePosition.x}px, ${this.imagePosition.y}px) scale(${this.zoomLevel})`;
             modalImage.style.transform = transform;
             
@@ -573,6 +585,157 @@ class GraduacionesApp {
         }
         if (zoomOutBtn) {
             zoomOutBtn.disabled = this.zoomLevel <= 0.5;
+        }
+    }
+
+    toggleMagnifier() {
+        if (!this.currentModalPhoto) {
+            return;
+        }
+        if (this.isMagnifierActive) {
+            this.deactivateMagnifier();
+            return;
+        }
+        if (this.zoomLevel !== 1) {
+            this.resetZoom();
+        }
+        this.isMagnifierActive = true;
+        this.activateMagnifier();
+        this.updateMagnifierButton();
+    }
+
+    activateMagnifier() {
+        const container = document.getElementById('modal-image-container');
+        const img = container ? container.querySelector('.modal-image') : null;
+        if (!container || !img) {
+            this.isMagnifierActive = false;
+            this.updateMagnifierButton();
+            return;
+        }
+        if (!this.magnifierLens) {
+            this.magnifierLens = document.createElement('div');
+            this.magnifierLens.className = 'magnifier-lens';
+        }
+        if (!this.magnifierTooltip) {
+            this.magnifierTooltip = document.createElement('div');
+            this.magnifierTooltip.className = 'magnifier-tooltip';
+        }
+        container.appendChild(this.magnifierLens);
+        container.appendChild(this.magnifierTooltip);
+        this.magnifierLens.style.display = 'block';
+        this.magnifierTooltip.style.display = 'none';
+        if (!this.magnifierListenersAttached) {
+            container.addEventListener('mousemove', this.boundMagnifierMove);
+            container.addEventListener('mouseleave', this.boundMagnifierLeave);
+            this.magnifierListenersAttached = true;
+        }
+    }
+
+    deactivateMagnifier() {
+        const container = document.getElementById('modal-image-container');
+        if (container && this.magnifierListenersAttached) {
+            container.removeEventListener('mousemove', this.boundMagnifierMove);
+            container.removeEventListener('mouseleave', this.boundMagnifierLeave);
+            this.magnifierListenersAttached = false;
+        }
+        if (this.magnifierLens && this.magnifierLens.parentElement) {
+            this.magnifierLens.parentElement.removeChild(this.magnifierLens);
+        }
+        if (this.magnifierTooltip && this.magnifierTooltip.parentElement) {
+            this.magnifierTooltip.parentElement.removeChild(this.magnifierTooltip);
+        }
+        this.magnifierLens = null;
+        this.magnifierTooltip = null;
+        this.isMagnifierActive = false;
+        this.updateMagnifierButton();
+    }
+
+    handleMagnifierMove(event) {
+        if (!this.isMagnifierActive) {
+            return;
+        }
+        const container = document.getElementById('modal-image-container');
+        const img = container ? container.querySelector('.modal-image') : null;
+        if (!container || !img || !this.magnifierLens) {
+            return;
+        }
+        const rect = img.getBoundingClientRect();
+        const containerRect = container.getBoundingClientRect();
+        const x = event.clientX - rect.left;
+        const y = event.clientY - rect.top;
+        if (x < 0 || y < 0 || x > rect.width || y > rect.height) {
+            this.hideMagnifierElements();
+            return;
+        }
+        const lensSize = parseInt(getComputedStyle(this.magnifierLens).width, 10) || 180;
+        this.magnifierLens.style.display = 'block';
+        this.magnifierLens.style.backgroundImage = `url(${img.src})`;
+        this.magnifierLens.style.backgroundSize = `${rect.width * this.magnifierZoom}px ${rect.height * this.magnifierZoom}px`;
+        this.magnifierLens.style.backgroundPosition = `-${(x * this.magnifierZoom) - lensSize / 2}px -${(y * this.magnifierZoom) - lensSize / 2}px`;
+        this.magnifierLens.style.left = `${event.clientX - containerRect.left - lensSize / 2}px`;
+        this.magnifierLens.style.top = `${event.clientY - containerRect.top - lensSize / 2}px`;
+        const face = this.getFaceUnderPointer(x, y, rect, img);
+        if (face) {
+            this.showMagnifierTooltip(face.nombre, event.clientX - containerRect.left, event.clientY - containerRect.top);
+        } else {
+            this.hideMagnifierTooltip();
+        }
+    }
+
+    handleMagnifierLeave() {
+        this.hideMagnifierElements();
+    }
+
+    hideMagnifierElements() {
+        if (this.magnifierLens) {
+            this.magnifierLens.style.display = 'none';
+        }
+        this.hideMagnifierTooltip();
+    }
+
+    getFaceUnderPointer(x, y, rect, img) {
+        if (!this.currentModalPhoto) {
+            return null;
+        }
+        const originalX = (x / rect.width) * img.naturalWidth;
+        const originalY = (y / rect.height) * img.naturalHeight;
+        const caras = this.facesData[this.currentModalPhoto] || [];
+        return caras.find(cara => {
+            if (!cara.nombre || cara.nombre.trim() === '') {
+                return false;
+            }
+            const withinX = originalX >= cara.x && originalX <= cara.x + cara.w;
+            const withinY = originalY >= cara.y && originalY <= cara.y + cara.h;
+            return withinX && withinY;
+        }) || null;
+    }
+
+    showMagnifierTooltip(nombre, relativeX, relativeY) {
+        if (!this.magnifierTooltip) {
+            return;
+        }
+        this.magnifierTooltip.textContent = nombre;
+        this.magnifierTooltip.style.display = 'block';
+        this.magnifierTooltip.style.left = `${relativeX}px`;
+        this.magnifierTooltip.style.top = `${relativeY}px`;
+    }
+
+    hideMagnifierTooltip() {
+        if (this.magnifierTooltip) {
+            this.magnifierTooltip.style.display = 'none';
+            this.magnifierTooltip.textContent = '';
+        }
+    }
+
+    updateMagnifierButton() {
+        const magnifierBtn = document.querySelector('.magnifier-toggle');
+        if (!magnifierBtn) {
+            return;
+        }
+        if (this.isMagnifierActive) {
+            magnifierBtn.classList.add('active');
+        } else {
+            magnifierBtn.classList.remove('active');
         }
     }
 
