@@ -9107,6 +9107,7 @@
       "nombre": "Sol Zwobada"
     },
     {
+      "id": 65,
       "x": 4566,
       "y": 1760,
       "w": 83,
@@ -9773,4 +9774,5 @@
       "nombre": "Sofía Tartara"
     }
   ]
+
 }
